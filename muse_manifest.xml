@@ -1,0 +1,283 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545780406532">
+  <folder name="css">
+    <file name="site_global.css" crc="4097807371"/>
+    <file name="master_a-master.css" crc="4164412893" ref="about:members:index:publications"/>
+    <file name="nomq_preview_master_a-master.css" crc="4033490899" ref="about:members:index:publications"/>
+    <file name="about.css" crc="3797694275" ref="about"/>
+    <file name="nomq_about.css" crc="319070244" ref="about"/>
+    <file name="members.css" crc="131724828" ref="members"/>
+    <file name="nomq_members.css" crc="291430938" ref="members"/>
+    <file name="index.css" crc="4148202777" ref="index"/>
+    <file name="nomq_index.css" crc="4141920669" ref="index"/>
+    <file name="publications.css" crc="3919043122" ref="publications"/>
+    <file name="nomq_publications.css" crc="4167765515" ref="publications"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:publications:members"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:publications:members"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:publications:members"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:publications:members"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:publications:members"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about:publications:members"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:publications:members"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:publications:members"/>
+    <file name="require.js" crc="7928878" ref="index:about:publications:members"/>
+  </folder>
+  <folder name="images">
+    <file name="yale.svg" crc="274079256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yale_poster_.png" crc="4173263037" ref="index"/>
+    <file name="yale-logo.svg" crc="3948039228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yale-logo_poster_.png" crc="354182298" ref="index"/>
+    <file name="pasted-svg-1544x201.svg" crc="148796377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1544x201_poster_.png" crc="480969524" ref="index"/>
+    <file name="ico_ham.svg" crc="496736174" ref="index:about:members:publications"/>
+    <file name="ico_ham_poster_u7432.png" crc="11301426" ref="index:about:members:publications"/>
+    <file name="ico_ham_close.svg" crc="528877227" ref="index:about:members:publications"/>
+    <file name="ico_ham_close_poster_u7409.png" crc="4203631480" ref="index:about:members:publications"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:publications:members"/>
+    <file name="pasted-svg-15436x201.svg" crc="3804072715" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 15436x201_poster_.png" crc="3874060642" ref="about"/>
+    <file name="pasted-svg-1544x200.svg" crc="3906078038" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 1544x200_poster_.png" crc="4196192490" ref="about"/>
+    <file name="pasted-svg-178527x78.svg" crc="3815493521" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 178527x78_poster_.png" crc="4120392930" ref="about"/>
+    <file name="stephanie_noble3.jpg" crc="182892072" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="zsdnagy6_400x400.jpg" crc="3852157189" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="javid-scholargif.jpg" crc="4279588070" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="dff6takv3q41ddvz0w-b9gx.jpg" crc="67786215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="pasted-svg-70202x178.svg" crc="337658672" seo="true" ref="publications">
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+    </file>
+    <file name="pasted svg 70202x178_poster_.png" crc="339955732" ref="publications"/>
+    <file name="pasted-svg-65919x48.svg" crc="4144510059" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="pasted svg 65919x48_poster_.png" crc="239910379" ref="members"/>
+    <file name="pasted-svg-65919x482.svg" crc="3978698603" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="pasted svg 65919x48_poster_2.png" crc="395866481" ref="members"/>
+    <file name="pasted-svg-32579x31.svg" crc="3967028760" seo="true" ref="index:about:publications:members">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index"/>
+    <file name="pasted-svg-6637x83.svg" crc="288936675" seo="true" ref="publications">
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+    </file>
+    <file name="pasted svg 6637x83_poster_.png" crc="364684479" ref="publications"/>
+    <file name="pasted-svg-6637x832.svg" crc="53637132" seo="true" ref="publications">
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+    </file>
+    <file name="pasted svg 6637x83_poster_2.png" crc="110797749" ref="publications"/>
+    <file name="pasted-svg-6637x833.svg" crc="400402619" seo="true" ref="publications">
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+    </file>
+    <file name="pasted svg 6637x83_poster_3.png" crc="356928492" ref="publications"/>
+    <file name="pasted-svg-208253x136.svg" crc="435238739" seo="true" ref="publications">
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+    </file>
+    <file name="pasted svg 208253x136_poster_.png" crc="208291785" ref="publications"/>
+    <file name="tablet-map-svgrepo-com.svg" crc="4250956234" seo="true" ref="index:about:publications:members">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="tablet-map-svgrepo-com_poster_.png" crc="348346613" ref="index"/>
+    <file name="mail-svgrepo-com.svg" crc="4035419932" seo="true" ref="index:about:publications:members">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="mail-svgrepo-com_poster_.png" crc="386715095" ref="index"/>
+    <file name="pasted-svg-166272x158.svg" crc="254348010" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="pasted svg 166272x158_poster_.png" crc="3799839129" ref="members"/>
+    <file name="dff6takv3q41ddvz0w-b9gx2.jpg" crc="73347290" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4130773848" seo="true" mt="1545780359210" redirect="true"/>
+  <file name="about.html" crc="4179078922" seo="true" mt="1545779905101" redirect="true"/>
+  <file name="publications.html" crc="501508561" seo="true" mt="1545779905101" redirect="true"/>
+  <file name="members.html" crc="3960033417" seo="true" mt="1545779905101" redirect="true"/>
+</manifest>
