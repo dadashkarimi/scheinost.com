@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545855185479">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545855585282">
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
     <file name="master_a-master.css" crc="3815479467" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="369838421" ref="about:members:index:publications"/>
     <file name="about.css" crc="16347893" ref="about"/>
     <file name="nomq_about.css" crc="335880855" ref="about"/>
-    <file name="members.css" crc="120670783" ref="members"/>
-    <file name="nomq_members.css" crc="480326562" ref="members"/>
+    <file name="members.css" crc="3955401886" ref="members"/>
+    <file name="nomq_members.css" crc="4146970073" ref="members"/>
     <file name="index.css" crc="398052076" ref="index"/>
     <file name="nomq_index.css" crc="4085778837" ref="index"/>
     <file name="publications.css" crc="4108293610" ref="publications"/>
@@ -281,5 +281,5 @@
   <file name="index.html" crc="427615626" seo="true" mt="1545852800643" redirect="true"/>
   <file name="about.html" crc="3946643307" seo="true" mt="1545817546136" redirect="true"/>
   <file name="publications.html" crc="76338353" seo="true" mt="1545817546136" redirect="true"/>
-  <file name="members.html" crc="422207425" seo="true" mt="1545855121334" redirect="true"/>
+  <file name="members.html" crc="3835645765" seo="true" mt="1545855549105" redirect="true"/>
 </manifest>
