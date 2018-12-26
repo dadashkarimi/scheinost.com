@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545852868300">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545854301223">
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="460969537" ref="about:members:index:publications"/>
+    <file name="master_a-master.css" crc="3815479467" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="369838421" ref="about:members:index:publications"/>
     <file name="about.css" crc="16347893" ref="about"/>
     <file name="nomq_about.css" crc="335880855" ref="about"/>
-    <file name="members.css" crc="61749962" ref="members"/>
-    <file name="nomq_members.css" crc="3951347287" ref="members"/>
+    <file name="members.css" crc="3827516614" ref="members"/>
+    <file name="nomq_members.css" crc="3771639263" ref="members"/>
     <file name="index.css" crc="398052076" ref="index"/>
     <file name="nomq_index.css" crc="4085778837" ref="index"/>
     <file name="publications.css" crc="4108293610" ref="publications"/>
@@ -107,19 +107,6 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
-    <file name="dff6takv3q41ddvz0w-b9gx.jpg" crc="73347290" seo="true" ref="members">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-    </file>
     <file name="pasted-svg-70202x178.svg" crc="337658672" seo="true" ref="publications">
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -173,7 +160,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index"/>
+    <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index:members"/>
     <file name="pasted-svg-6637x83.svg" crc="288936675" seo="true" ref="publications">
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -231,7 +218,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="tablet-map-svgrepo-com_poster_.png" crc="348346613" ref="index"/>
+    <file name="tablet-map-svgrepo-com_poster_.png" crc="348346613" ref="index:members"/>
     <file name="mail-svgrepo-com.svg" crc="4035419932" seo="true" ref="index:about:publications:members">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -257,7 +244,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="mail-svgrepo-com_poster_.png" crc="386715095" ref="index"/>
+    <file name="mail-svgrepo-com_poster_.png" crc="386715095" ref="index:members"/>
     <file name="pasted-svg-166272x158.svg" crc="254348010" seo="true" ref="members">
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
@@ -275,11 +262,17 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="mail-mailbox-svgrepo-com_poster_.png" crc="4139932566" ref="index"/>
-    <file name="dustin_4156x218.jpg" crc="4002027621" seo="true" ref="index">
+    <file name="dustin_4156x218.jpg" crc="4002027621" seo="true" ref="index:members">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="dustin_4.jpg" crc="528747925" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -288,5 +281,5 @@
   <file name="index.html" crc="427615626" seo="true" mt="1545852800643" redirect="true"/>
   <file name="about.html" crc="3946643307" seo="true" mt="1545817546136" redirect="true"/>
   <file name="publications.html" crc="76338353" seo="true" mt="1545817546136" redirect="true"/>
-  <file name="members.html" crc="68277029" seo="true" mt="1545849754880" redirect="true"/>
+  <file name="members.html" crc="168523078" seo="true" mt="1545854223858" redirect="true"/>
 </manifest>
