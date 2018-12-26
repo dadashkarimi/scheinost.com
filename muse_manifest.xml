@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545795474099">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545817235911">
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="4177596430" ref="about:members:index:publications"/>
-    <file name="nomq_preview_master_a-master.css" crc="405686550" ref="about:members:index:publications"/>
-    <file name="about.css" crc="436227610" ref="about"/>
-    <file name="nomq_about.css" crc="535184341" ref="about"/>
-    <file name="members.css" crc="40500189" ref="members"/>
-    <file name="nomq_members.css" crc="3832842171" ref="members"/>
-    <file name="index.css" crc="4153332536" ref="index"/>
-    <file name="nomq_index.css" crc="3830051032" ref="index"/>
-    <file name="publications.css" crc="3950112205" ref="publications"/>
-    <file name="nomq_publications.css" crc="512129821" ref="publications"/>
+    <file name="master_a-master.css" crc="357230168" ref="about:members:index:publications"/>
+    <file name="nomq_preview_master_a-master.css" crc="369838421" ref="about:members:index:publications"/>
+    <file name="about.css" crc="16347893" ref="about"/>
+    <file name="nomq_about.css" crc="335880855" ref="about"/>
+    <file name="members.css" crc="4190373654" ref="members"/>
+    <file name="nomq_members.css" crc="368892794" ref="members"/>
+    <file name="index.css" crc="3873708364" ref="index"/>
+    <file name="nomq_index.css" crc="4242705742" ref="index"/>
+    <file name="publications.css" crc="4108293610" ref="publications"/>
+    <file name="nomq_publications.css" crc="308611172" ref="publications"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:publications:members"/>
@@ -275,9 +275,17 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
+    <file name="mail-mailbox-svgrepo-com.svg" crc="4236263935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mail-mailbox-svgrepo-com_poster_.png" crc="4139932566" ref="index"/>
   </folder>
-  <file name="index.html" crc="3766175746" seo="true" mt="1545795434493" redirect="true"/>
-  <file name="about.html" crc="4008110090" seo="true" mt="1545795105225" redirect="true"/>
-  <file name="publications.html" crc="281181092" seo="true" mt="1545795105225" redirect="true"/>
-  <file name="members.html" crc="236575138" seo="true" mt="1545795105225" redirect="true"/>
+  <file name="index.html" crc="3788872659" seo="true" mt="1545817206008" redirect="true"/>
+  <file name="about.html" crc="4149832642" seo="true" mt="1545817206008" redirect="true"/>
+  <file name="publications.html" crc="76338353" seo="true" mt="1545817206008" redirect="true"/>
+  <file name="members.html" crc="41703132" seo="true" mt="1545817206008" redirect="true"/>
 </manifest>
