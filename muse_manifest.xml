@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545794573158">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545795474099">
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="2361237" ref="about:members:index:publications"/>
+    <file name="master_a-master.css" crc="4177596430" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="405686550" ref="about:members:index:publications"/>
-    <file name="about.css" crc="4220181168" ref="about"/>
-    <file name="nomq_about.css" crc="4163523836" ref="about"/>
-    <file name="members.css" crc="109792192" ref="members"/>
-    <file name="nomq_members.css" crc="4007840351" ref="members"/>
-    <file name="index.css" crc="3851783993" ref="index"/>
-    <file name="nomq_index.css" crc="512787393" ref="index"/>
-    <file name="publications.css" crc="389010209" ref="publications"/>
-    <file name="nomq_publications.css" crc="3983206843" ref="publications"/>
+    <file name="about.css" crc="436227610" ref="about"/>
+    <file name="nomq_about.css" crc="535184341" ref="about"/>
+    <file name="members.css" crc="40500189" ref="members"/>
+    <file name="nomq_members.css" crc="3832842171" ref="members"/>
+    <file name="index.css" crc="4153332536" ref="index"/>
+    <file name="nomq_index.css" crc="3830051032" ref="index"/>
+    <file name="publications.css" crc="3950112205" ref="publications"/>
+    <file name="nomq_publications.css" crc="512129821" ref="publications"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:publications:members"/>
@@ -276,8 +276,8 @@
       <caption webpage="members" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="147660810" seo="true" mt="1545794551514" redirect="true"/>
-  <file name="about.html" crc="237962520" seo="true" mt="1545792893659" redirect="true"/>
-  <file name="publications.html" crc="4154219284" seo="true" mt="1545792893659" redirect="true"/>
-  <file name="members.html" crc="3862302441" seo="true" mt="1545792893659" redirect="true"/>
+  <file name="index.html" crc="3766175746" seo="true" mt="1545795434493" redirect="true"/>
+  <file name="about.html" crc="4008110090" seo="true" mt="1545795105225" redirect="true"/>
+  <file name="publications.html" crc="281181092" seo="true" mt="1545795105225" redirect="true"/>
+  <file name="members.html" crc="236575138" seo="true" mt="1545795105225" redirect="true"/>
 </manifest>
