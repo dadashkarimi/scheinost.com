@@ -15,9 +15,6 @@
       <image:loc>http://scheinost.com/images/pasted-svg-1544x201.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/dff6takv3q41ddvz0w-b9gx.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-32579x31.svg</image:loc>
     </image:image>
     <image:image>
@@ -28,6 +25,12 @@
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/mail-mailbox-svgrepo-com.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/dustin_4156x218.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/dustin_4.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -99,6 +102,9 @@
       <image:loc>http://scheinost.com/images/javid-scholargif.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://scheinost.com/images/dff6takv3q41ddvz0w-b9gx.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-65919x48.svg</image:loc>
     </image:image>
     <image:image>
@@ -115,9 +121,6 @@
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-166272x158.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://scheinost.com/images/dff6takv3q41ddvz0w-b9gx2.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
