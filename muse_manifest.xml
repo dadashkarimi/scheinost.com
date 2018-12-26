@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545792972845">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545794573158">
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="3882618592" ref="about:members:index:publications"/>
+    <file name="master_a-master.css" crc="2361237" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="405686550" ref="about:members:index:publications"/>
     <file name="about.css" crc="4220181168" ref="about"/>
     <file name="nomq_about.css" crc="4163523836" ref="about"/>
     <file name="members.css" crc="109792192" ref="members"/>
     <file name="nomq_members.css" crc="4007840351" ref="members"/>
-    <file name="index.css" crc="4025834485" ref="index"/>
-    <file name="nomq_index.css" crc="3086503" ref="index"/>
+    <file name="index.css" crc="3851783993" ref="index"/>
+    <file name="nomq_index.css" crc="512787393" ref="index"/>
     <file name="publications.css" crc="389010209" ref="publications"/>
     <file name="nomq_publications.css" crc="3983206843" ref="publications"/>
   </folder>
@@ -107,7 +107,7 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
-    <file name="dff6takv3q41ddvz0w-b9gx.jpg" crc="67786215" seo="true" ref="index">
+    <file name="dff6takv3q41ddvz0w-b9gx.jpg" crc="479651147" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -276,7 +276,7 @@
       <caption webpage="members" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4058188962" seo="true" mt="1545792893659" redirect="true"/>
+  <file name="index.html" crc="147660810" seo="true" mt="1545794551514" redirect="true"/>
   <file name="about.html" crc="237962520" seo="true" mt="1545792893659" redirect="true"/>
   <file name="publications.html" crc="4154219284" seo="true" mt="1545792893659" redirect="true"/>
   <file name="members.html" crc="3862302441" seo="true" mt="1545792893659" redirect="true"/>
