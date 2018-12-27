@@ -59,6 +59,9 @@
     <image:image>
       <image:loc>http://scheinost.com/images/lemon.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/pasted-svg-223681x336.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://scheinost.com/publications.html</loc>
