@@ -12,9 +12,6 @@
       <image:loc>http://scheinost.com/images/yale-logo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/pasted-svg-1544x201.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-32579x31.svg</image:loc>
     </image:image>
     <image:image>
@@ -31,6 +28,9 @@
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/dustin_3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/pasted-svg-167332x201.svg</image:loc>
     </image:image>
   </url>
   <url>

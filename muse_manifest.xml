@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545874455478">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545875443291">
   <folder name="assets">
     <file name="lemon.svg" crc="4132317496" seo="true" mt="1545864822000"/>
   </folder>
@@ -10,8 +10,8 @@
     <file name="nomq_about.css" crc="4288022052" ref="about"/>
     <file name="members.css" crc="226872528" ref="members"/>
     <file name="nomq_members.css" crc="3808008387" ref="members"/>
-    <file name="index.css" crc="4252807268" ref="index"/>
-    <file name="nomq_index.css" crc="3894628750" ref="index"/>
+    <file name="index.css" crc="4074294197" ref="index"/>
+    <file name="nomq_index.css" crc="29014411" ref="index"/>
     <file name="publications.css" crc="3888461041" ref="publications"/>
     <file name="nomq_publications.css" crc="3995103215" ref="publications"/>
   </folder>
@@ -43,14 +43,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="yale-logo_poster_.png" crc="354182298" ref="index"/>
-    <file name="pasted-svg-1544x201.svg" crc="148796377" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 1544x201_poster_.png" crc="480969524" ref="index"/>
     <file name="ico_ham.svg" crc="496736174" ref="index:about:members:publications"/>
     <file name="ico_ham_poster_u7432.png" crc="11301426" ref="index:about:members:publications"/>
     <file name="ico_ham_close.svg" crc="528877227" ref="index:about:members:publications"/>
@@ -290,8 +282,16 @@
     <file name="dustin_3.jpg" crc="193410214" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="pasted-svg-167332x201.svg" crc="327382205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 167332x201_poster_.png" crc="4077865635" ref="index"/>
   </folder>
-  <file name="index.html" crc="4049285254" seo="true" mt="1545874379282" redirect="true"/>
+  <file name="index.html" crc="457765784" seo="true" mt="1545875416039" redirect="true"/>
   <file name="about.html" crc="4128404616" seo="true" mt="1545865216088" redirect="true"/>
   <file name="publications.html" crc="311363260" seo="true" mt="1545856765006" redirect="true"/>
   <file name="members.html" crc="278187707" seo="true" mt="1545863375421" redirect="true"/>
