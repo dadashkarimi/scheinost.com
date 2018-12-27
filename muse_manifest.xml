@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545877122587">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1545900154671">
   <folder name="assets">
     <file name="lemon.svg" crc="4132317496" seo="true" mt="1545864822000"/>
   </folder>
@@ -10,8 +10,8 @@
     <file name="nomq_about.css" crc="4288022052" ref="about"/>
     <file name="members.css" crc="226872528" ref="members"/>
     <file name="nomq_members.css" crc="3808008387" ref="members"/>
-    <file name="index.css" crc="3792878313" ref="index"/>
-    <file name="nomq_index.css" crc="98385869" ref="index"/>
+    <file name="index.css" crc="4058606538" ref="index"/>
+    <file name="nomq_index.css" crc="405565364" ref="index"/>
     <file name="publications.css" crc="3888461041" ref="publications"/>
     <file name="nomq_publications.css" crc="3995103215" ref="publications"/>
   </folder>
@@ -282,14 +282,14 @@
     <file name="dustin_3.jpg" crc="193410214" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted-svg-167332x201.svg" crc="327382205" seo="true" ref="index">
+    <file name="pasted-svg-167332x201.svg" crc="4266234085" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 167332x201_poster_.png" crc="4077865635" ref="index"/>
+    <file name="pasted svg 167332x201_poster_.png" crc="4011266645" ref="index"/>
     <file name="dustin_42.jpg" crc="452976533" seo="true" ref="members">
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
@@ -299,7 +299,7 @@
       <caption webpage="members" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3971196028" seo="true" mt="1545877098421" redirect="true"/>
+  <file name="index.html" crc="4241775883" seo="true" mt="1545900131366" redirect="true"/>
   <file name="about.html" crc="399165765" seo="true" mt="1545876919090" redirect="true"/>
   <file name="publications.html" crc="311363260" seo="true" mt="1545876919090" redirect="true"/>
   <file name="members.html" crc="11647646" seo="true" mt="1545876919090" redirect="true"/>
