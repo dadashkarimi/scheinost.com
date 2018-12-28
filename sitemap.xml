@@ -62,6 +62,9 @@
     <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-223681x336.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/pasted-svg-125291x480.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://scheinost.com/publications.html</loc>
@@ -126,10 +129,7 @@
       <image:loc>http://scheinost.com/images/pasted-svg-166272x158.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/pasted-svg-125291x480.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://scheinost.com/images/dustin_42.jpg</image:loc>
+      <image:loc>http://scheinost.com/images/dustin_4.jpg</image:loc>
     </image:image>
   </url>
   <url>
