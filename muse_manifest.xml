@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546021988096">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546024766060">
   <folder name="assets">
     <file name="lemon.svg" crc="4132317496" seo="true" mt="1545864822000"/>
   </folder>
@@ -8,8 +8,8 @@
     <file name="nomq_preview_master_a-master.css" crc="369838421" ref="about:members:index:publications"/>
     <file name="about.css" crc="203341576" ref="about"/>
     <file name="nomq_about.css" crc="4223424954" ref="about"/>
-    <file name="members.css" crc="96113963" ref="members"/>
-    <file name="nomq_members.css" crc="4094347109" ref="members"/>
+    <file name="members.css" crc="4178514585" ref="members"/>
+    <file name="nomq_members.css" crc="34724502" ref="members"/>
     <file name="index.css" crc="4230153940" ref="index"/>
     <file name="nomq_index.css" crc="231975950" ref="index"/>
     <file name="publications.css" crc="366054602" ref="publications"/>
@@ -300,7 +300,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 223681x336_poster_.png" crc="4221533845" ref="about"/>
-    <file name="pasted-svg-1170594x446.svg" crc="4240952588" seo="true" ref="members">
+    <file name="pasted-svg-125291x480.svg" crc="3816596692" seo="true" ref="members">
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
@@ -308,10 +308,10 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
-    <file name="pasted svg 1170594x446_poster_.png" crc="3815470406" ref="members"/>
+    <file name="pasted svg 125291x480_poster_.png" crc="3853910004" ref="members"/>
   </folder>
   <file name="index.html" crc="4015218195" seo="true" mt="1545910154003" redirect="true"/>
   <file name="about.html" crc="99751646" seo="true" mt="1545981485622" redirect="true"/>
   <file name="publications.html" crc="3870519440" seo="true" mt="1545910154003" redirect="true"/>
-  <file name="members.html" crc="3805706562" seo="true" mt="1546021982704" redirect="true"/>
+  <file name="members.html" crc="198940878" seo="true" mt="1546024743881" redirect="true"/>
 </manifest>
