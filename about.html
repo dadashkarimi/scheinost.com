@@ -17,12 +17,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>about</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4097807371"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4250607378"/>
-  <link rel="stylesheet" type="text/css" href="css/about.css?crc=73187013" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3993886030"/>
+  <link rel="stylesheet" type="text/css" href="css/about.css?crc=328278942" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=369838421"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_about.css?crc=4129345152" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_about.css?crc=3982756016" id="nomq_pagesheet"/>
   <![endif]-->
    </head>
  <body>
@@ -43,12 +43,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p id="u42086-4"><span><a class="nonblock" href="members.html"><span id="u42086">Members</span></a></span></p>
      </div>
     </div>
-    <div class="clearfix grpelem" id="pu2722-10"><!-- column -->
-     <div class="clearfix colelem" id="u2722-10"><!-- content -->
+    <div class="clearfix grpelem" id="pu2722-11"><!-- column -->
+     <div class="clearfix colelem" id="u2722-11"><!-- content -->
       <p id="u2722-3"><span id="u2722"><span class="actAsDiv normal_text" id="u22983"><!-- content --><span class="actAsDiv clip_frame" id="u22959" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- svg --><img class="actAsDiv svg temp_no_img_src" id="u22960" data-orig-src="images/pasted-svg-15436x201.svg?crc=3804072715" width="216" height="278" alt="" data-mu-svgfallback="images/pasted%20svg%2015436x201_poster_.png?crc=3874060642" src="images/blank.gif?crc=4208392903"/></span></span></span><span class="shared_content" data-content-guid="u2722-3_1_content">Our research center located in TAC building. If you stop by New Haven, you can take a coffee from Blue State in Cedar Street and cross the street to visit us in first floor of TAC. We have pretty large research group including one physic and one neuroscience subgroups both under supervision of Todd Constable. Our group mostly involved with the second&nbsp; one and working on a higher level of functional magnetic resonance imaging (fmri) which is defined by scanning subjects' brains, applying segmentation and defacing, skull removal, parcellation,&nbsp; building brain connectomes, data analysis on the connectome.&nbsp;&nbsp; In classic definition, parcellation is meant to pin some areas of human brain corresponding to particular functionality. From practical point of view this functionality should translate into higher node activation during a task performance.</span></p>
-      <p id="u2722-5" class="shared_content" data-content-guid="u2722-5_content">&nbsp;&nbsp; A traditional view for parcellation is based around a unified group-level network construction. There is good reasons why people use this simple approach; it is comparable among subjects for a prediction measure and also scalable with the number of nodes. But, there is no guarantee to preserve individual differences since a single functional atlas may not perfectly fit for all subjects.</p>
-      <p id="u2722-7" class="shared_content" data-content-guid="u2722-7_content">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recent studies on functional neuroimaging (e.g. fMRI) attempt to model the brain as a network. A conventional functional connectivity approach for defining nodes in the network is grouping similar voxels together, a method known as functional parcellation. The majority of previous work on human brain parcellation employs a group- level analysis by collapsing data from the entire population. However, these methods ignore the large amount of inter-individual variability and uniqueness in connectivity. This is particularly relevant for patient studies or even developmental studies where a single functional atlas may not be appropriate for all individuals or conditions. To account for the individual differences, we developed an approach to individualized parcellation. The algorithm starts with an initial group-level parcellation and forms the individualized ones using a local exemplar-based submodular clustering method. The utility of individualized parcellations is further demonstrated through improvement in the accuracy of a predictive model that predicts IQ using functional connectome.</p>
-      <p class="shared_content" data-content-guid="u2722-10_3_content">&nbsp;</p>
+      <p id="u2722-7" class="shared_content" data-content-guid="u2722-7_content">&nbsp;&nbsp; <span id="u2722-5">Individualized Parcellation</span> A traditional view for parcellation is based around a unified group-level network construction. There is good reasons why people use this simple approach; it is comparable among subjects for a prediction measure and also scalable with the number of nodes. But, there is no guarantee to preserve individual differences since a single functional atlas may not perfectly fit for all subjects.</p>
+      <p id="u2722-9" class="shared_content" data-content-guid="u2722-9_content">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recent studies on functional neuroimaging (e.g. fMRI) attempt to model the brain as a network. A conventional functional connectivity approach for defining nodes in the network is grouping similar voxels together, a method known as functional parcellation. The majority of previous work on human brain parcellation employs a group- level analysis by collapsing data from the entire population. However, these methods ignore the large amount of inter-individual variability and uniqueness in connectivity. This is particularly relevant for patient studies or even developmental studies where a single functional atlas may not be appropriate for all individuals or conditions. To account for the individual differences, we developed an approach to individualized parcellation. The algorithm starts with an initial group-level parcellation and forms the individualized ones using a local exemplar-based submodular clustering method. The utility of individualized parcellations is further demonstrated through improvement in the accuracy of a predictive model that predicts IQ using functional connectome.</p>
      </div>
      <div class="clearfix colelem" id="u8689-16"><!-- content -->
       <p id="u8689-2" class="shared_content" data-content-guid="u8689-2_content">Functional connectivity analysis, as derived</p>
@@ -58,50 +57,28 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p id="u8689-12" class="shared_content" data-content-guid="u8689-12_content">&nbsp;&nbsp; Finally, they do not capture individual differences in the functional organization for each subject. This is particularly relevant for interventions that are focused on improvements in single patient, rather than group-level effects. Creating functional parcellation that accounts for an individual’s functional organization while retaining explicit node correspondence to previously validated models remains a need for personalized applications.</p>
       <p id="u8689-14" class="shared_content" data-content-guid="u8689-14_content">&nbsp;&nbsp; In this work, we propose a novel method to individualize the whole-brain functional parcellations consisting of hundreds of nodes (or parcels). This approach starts with a generic group parcellation and morphs it to account for the individual’s functional organization. To individualize an existing parcellation, we use exemplar-based clustering and identify local exemplars for each node in the parcellation by optimizing a monotone submodular function using greedy algorithm. By starting with a group-level parcellation and the usage of exemplars, we retain known correspondence between nodes across individuals and across other studies. The individualization is applied to each subject independently, providing an online algorithm that uses only one individual data in a streaming fashion.</p>
      </div>
-     <div class="clearfix colelem" id="u9866-27"><!-- content -->
-      <p><span class="actAsDiv normal_text" id="u23105"><!-- content --><span class="actAsDiv clip_frame" id="u23085" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- svg --><img class="actAsDiv svg temp_no_img_src" id="u23086" data-orig-src="images/pasted-svg-178527x78.svg?crc=3815493521" width="270" height="118" alt="" data-mu-svgfallback="images/pasted%20svg%20178527x78_poster_.png?crc=4120392930" src="images/blank.gif?crc=4208392903"/></span></span><span class="shared_content" data-content-guid="u9866-27_0_1_content">Currently we are also working on semi-supervised techniques to increase the number of training data for behavioral prediction.</span><span id="u9866-2" class="shared_content" data-content-guid="u9866-2_content"> NEED TO BE COM</span></p>
-      <p id="u9866-5" class="shared_content" data-content-guid="u9866-5_content">need to be completed need to be completed need to be completed</p>
-      <p id="u9866-7" class="shared_content" data-content-guid="u9866-7_content">need to be completed need to be completed need to be completed</p>
-      <p id="u9866-9" class="shared_content" data-content-guid="u9866-9_content">need to be completed need to be completed need to be completed</p>
-      <p id="u9866-11" class="shared_content" data-content-guid="u9866-11_content">need to be completed need to be completed need to be completed</p>
-      <p id="u9866-13" class="shared_content" data-content-guid="u9866-13_content">need to be completed need to be completed need to be completed</p>
-      <p id="u9866-15" class="shared_content" data-content-guid="u9866-15_content">need to be completed need to be completed need to be completed</p>
-      <p id="u9866-17" class="shared_content" data-content-guid="u9866-17_content">need to be completed need to be completed need to be completed</p>
-      <p id="u9866-19" class="shared_content" data-content-guid="u9866-19_content">need to be completed need to be completed need to be completedneed to be completed need to be completed need to be completedneed to be completed need to be completed need to be completed</p>
-      <p id="u9866-21" class="shared_content" data-content-guid="u9866-21_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u9866-23" class="shared_content" data-content-guid="u9866-23_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u9866-25" class="shared_content" data-content-guid="u9866-25_content">&nbsp;need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
+     <div class="clearfix colelem shared_content" id="u9866-9" data-content-guid="u9866-9_content"><!-- content -->
+      <p><span class="actAsDiv normal_text" id="u23105"><!-- content --><span class="actAsDiv clip_frame" id="u23085" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- svg --><img class="actAsDiv svg temp_no_img_src" id="u23086" data-orig-src="images/pasted-svg-178527x78.svg?crc=3815493521" width="270" height="118" alt="" data-mu-svgfallback="images/pasted%20svg%20178527x78_poster_.png?crc=4120392930" src="images/blank.gif?crc=4208392903"/></span></span><span id="u9866" class="shared_content" data-content-guid="u9866_content">Test–Retest Reliability</span><span class="shared_content" data-content-guid="u9866-9_0_2_content"> Best practices are currently being developed for the acquisition and processing of resting-state magnetic resonance imaging data used to estimate brain functional organization—or “functional connectivity.” Standards have been proposed based on test–retest reliability, but open questions remain. These include how amount of data per subject influences whole-brain reliability, the influence of increasing runs versus sessions, the spatial distribution of reliability, the reliability of multivariate methods, and, crucially, how reliability maps onto prediction of behavior. We collected a dataset of 12 extensively sampled individuals (144 min data each across 2 identically configured scanners) to assess test–retest reliability of whole-brain connectivity within the generalizability theory framework. We used Human Connectome Project data to replicate these analyses and relate reliability to behavioral prediction. Overall, the historical 5-min scan produced poor reliability averaged across connections. Increasing the number of sessions was more beneficial than increasing runs. Reliability was lowest for subcortical connections and highest for within-network cortical connections. Multivariate reliability was greater than univariate. Finally, reliability could not be used to improve prediction; these findings are among the first to underscore this distinction for functional connectivity. A comprehensive understanding of test–retest reliability, including its limitations, supports the development of best practices in the field.</span></p>
+      <p class="shared_content" data-content-guid="u9866-9_1_content">&nbsp;</p>
+      <p id="u9866-7" class="shared_content" data-content-guid="u9866-7_content">Multisite Reliability <span id="u9866-6">Recent years have witnessed an increasing number of multisite MRI functional connectivity (fcMRI) studies. While multisite studies provide an efficient way to accelerate data collection and increase sample sizes, especially for rare clinical populations, any effects of site or MRI scanner could ultimately limit power and weaken results. Little data exists on the stability of functional connectivity measurements across sites and sessions. In this study, we assess the influence of site and session on resting state functional connectivity measurements in a healthy cohort of traveling subjects (8 subjects scanned twice at each of 8 sites) scanned as part of the North American Prodrome Longitudinal Study (NAPLS). Reliability was investigated in three types of connectivity analyses: (1) seed-based connectivity with posterior cingulate cortex (PCC), right motor cortex (RMC), and left thalamus (LT) as seeds; (2) the intrinsic connectivity distribution (ICD), a voxel-wise connectivity measure; and (3) matrix connectivity, a whole-brain, atlas-based approach to assessing connectivity between nodes. Contributions to variability in connectivity due to subject, site, and day-of-scan were quantified and used to assess between-session (test-retest) reliability in accordance with Generalizability Theory. Overall, no major site, scanner manufacturer, or day-of-scan effects were found for the univariate connectivity analyses; instead, subject effects dominated relative to the other measured factors. However, summaries of voxel-wise connectivity were found to be sensitive to site and scanner manufacturer effects. For all connectivity measures, although subject variance was three times the site variance, the residual represented 60–80% of the variance, indicating that connectivity differed greatly from scan to scan independent of any of the measured factors (i.e., subject, site, and day-of-scan). Thus, for a single 5 min scan, reliability across connectivity measures was poor (ICC=0.07–0.17), but increased with increasing scan duration (ICC=0.21–0.36 at 25 min). The limited effects of site and scanner manufacturer support the use of multisite studies, such as NAPLS, as a viable means of collecting data on rare populations and increasing power in univariate functional connectivity studies. However, the results indicate that aggregation of fcMRI data across longer scan durations is necessary to increase the reliability of connectivity estimates at the single-subject level.</span></p>
      </div>
-     <div class="clearfix colelem" id="u54146-44"><!-- content -->
-      <p><span class="shared_content" data-content-guid="u54146-44_0_0_content">Currently we are also working on semi-supervised techniques to increase the number&nbsp; </span><span class="actAsDiv normal_text" id="u54967"><!-- content --><span class="actAsDiv clip_frame" id="u54947" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- svg --><img class="actAsDiv svg temp_no_img_src" id="u54948" data-orig-src="images/lemon.svg?crc=4132317496" width="293" height="193" alt="" data-mu-svgfallback="images/lemon_poster_.png?crc=430270965" src="images/blank.gif?crc=4208392903"/></span></span><span class="shared_content" data-content-guid="u54146-44_0_2_content"></span></p>
-      <p class="shared_content" data-content-guid="u54146-44_1_content">&nbsp;of training data for behavioral prediction.<span id="u54146-5"></span></p>
-      <p id="u54146-8" class="shared_content" data-content-guid="u54146-8_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-10" class="shared_content" data-content-guid="u54146-10_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-12" class="shared_content" data-content-guid="u54146-12_content">need to be completed need to be completed need to be completed</p>
-      <p id="u54146-14" class="shared_content" data-content-guid="u54146-14_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-16" class="shared_content" data-content-guid="u54146-16_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-18" class="shared_content" data-content-guid="u54146-18_content">need to be completed need to be completed need to be completed</p>
-      <p id="u54146-20" class="shared_content" data-content-guid="u54146-20_content">need to be completed need to be completed need to be completedneed to be completed need to be completed need to be completed</p>
-      <p id="u54146-22" class="shared_content" data-content-guid="u54146-22_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-24" class="shared_content" data-content-guid="u54146-24_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-26" class="shared_content" data-content-guid="u54146-26_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-28" class="shared_content" data-content-guid="u54146-28_content">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed&nbsp; to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed&nbsp; to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed&nbsp; to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-30" class="shared_content" data-content-guid="u54146-30_content">&nbsp;to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-32" class="shared_content" data-content-guid="u54146-32_content">&nbsp;to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-33" class="shared_content" data-content-guid="u54146-33_content">&nbsp;</p>
-      <p id="u54146-34" class="shared_content" data-content-guid="u54146-34_content">&nbsp;</p>
-      <p id="u54146-35" class="shared_content" data-content-guid="u54146-35_content">&nbsp;</p>
-      <p id="u54146-37" class="shared_content" data-content-guid="u54146-37_content"><span class="actAsDiv normal_text" id="u61898"><!-- content --><span class="actAsDiv clip_frame" id="u61878" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- svg --><img class="actAsDiv svg temp_no_img_src" id="u61879" data-orig-src="images/pasted-svg-223681x336.svg?crc=3943201034" width="176" height="264" alt="" data-mu-svgfallback="images/pasted%20svg%20223681x336_poster_.png?crc=4221533845" src="images/blank.gif?crc=4208392903"/></span></span>needneed to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-39" class="shared_content" data-content-guid="u54146-39_content">&nbsp;to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p id="u54146-40" class="shared_content" data-content-guid="u54146-40_content">&nbsp;</p>
-      <p class="shared_content" data-content-guid="u54146-44_21_content">&nbsp;</p>
-      <p class="shared_content" data-content-guid="u54146-44_22_content">&nbsp;</p>
+     <div class="clearfix colelem" id="u54146-22"><!-- content -->
+      <p><span id="u54146" class="shared_content" data-content-guid="u54146_content">Functional connectome fingerprinting</span><span class="shared_content" data-content-guid="u54146-22_0_1_content">: Functional magnetic resonance imaging (fMRI) studies typically collapse data from many subjects, but</span><span class="actAsDiv normal_text" id="u69471"><!-- content --><span class="actAsDiv clip_frame" id="u69451" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- svg --><img class="actAsDiv svg temp_no_img_src" id="u69452" data-orig-src="images/lemon.svg?crc=4132317496" width="293" height="193" alt="" data-mu-svgfallback="images/lemon_poster_.png?crc=430270965" src="images/blank.gif?crc=4208392903"/></span></span><span class="shared_content" data-content-guid="u54146-22_0_3_content"> brain functional organization varies between individuals. Here we establish that this individual variability is both robust and reliable, using data from the Human Connectome Project to demonstrate that functional connectivity profiles act as a 'fingerprint' that can accurately identify subjects from a large group. Identification was successful across scan sessions and even between task and rest conditions, indicating that an individual's connectivity profile is intrinsic, and can be used to distinguish that individual regardless of how the brain is engaged during imaging. Characteristic connectivity patterns were distributed throughout the brain, but the frontoparietal network emerged as most distinctive. Furthermore, we show that connectivity profiles predict levels of fluid intelligence: the same networks that were most discriminating of individuals were also most predictive of cognitive behavior. Results indicate the potential to draw inferences about single subjects on the basis of functional connectivity fMRI.</span></p>
+      <p class="shared_content" data-content-guid="u54146-22_1_content">&nbsp;</p>
+      <p class="shared_content" data-content-guid="u54146-22_2_content"><span id="u54146-6">Neuromarker of sustained attention </span> Although attention plays a ubiquitous role in perception and cognition, researchers lack a simple way to measure a person's overall attentional abilities. Because behavioral measures are diverse and difficult to standardize, we pursued a neuromarker of an important aspect of attention, sustained attention, using functional magnetic resonance imaging. To this end, we identified functional brain networks whose strength during a sustained attention task predicted individual differences in performance. Models based on these networks generalized to previously unseen individuals, even predicting performance from resting-state connectivity alone. Furthermore, these same models predicted a clinical measure of attention—symptoms of attention deficit hyperactivity disorder—from resting-state connectivity in an independent sample of children and adolescents. These results demonstrate that whole-brain functional network strength provides a broadly applicable neuromarker of sustained attention.</p>
+      <p id="u54146-9" class="shared_content" data-content-guid="u54146-9_content">&nbsp;</p>
+      <p id="u54146-12" class="shared_content" data-content-guid="u54146-12_content"><span class="actAsDiv normal_text" id="u61898"><!-- content --><span class="actAsDiv clip_frame" id="u61878" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- svg --><img class="actAsDiv svg temp_no_img_src" id="u61879" data-orig-src="images/pasted-svg-223681x336.svg?crc=3943201034" width="176" height="264" alt="" data-mu-svgfallback="images/pasted%20svg%20223681x336_poster_.png?crc=4221533845" src="images/blank.gif?crc=4208392903"/></span></span><span id="u54146-10">Task-induced brain state manipulation</span><span>&nbsp; Recent work has begun to relate individual differences in brain functional organization to human behaviors and cognition, but the best brain state to reveal such relationships remains an open question. In two large, independent data sets, we here show that cognitive tasks amplify trait-relevant individual differences in patterns of functional connectivity, such that predictive models built from task fMRI data outperform models built from resting-state fMRI data. Further, certain tasks consistently yield better predictions of fluid intelligence than others, and the task that generates the best-performing models varies by sex. By considering task-induced brain state and sex, the best-performing model explains over 20% of the variance in fluid intelligence scores, as compared to &lt;6% of variance explained by rest-based models. This suggests that identifying and inducing the right brain state in a given group can better reveal brain-behavior relationships, motivating a paradigm shift from rest- to task-based functional connectivity analyses.</span></p>
+      <p id="u54146-14" class="shared_content" data-content-guid="u54146-14_content">&nbsp;The potential to “decode” brain activity has generated much excitement in recent years, both because such analyses offer a window into neural representation, and because, by exploring individual differences in these representations, we can characterize, predict, and ultimately alter brain–behavior relationships in health and disease. Functional magnetic resonance imaging (fMRI) provides a means to pursue these goals, particularly given the shift from studying circumscribed brain regions to leveraging whole-brain, data-driven techniques to explore distributed patterns of activation and connectivity. This transition reflects a growing consensus that important insights into neural function may be found in the organization and coordination of distributed circuitry, making connectome-based approaches well suited for advancing predictive modeling efforts.&nbsp; Connectome-based analyses usually focus on resting-state fMRI (hereafter, “rest data” and “rest-based” analyses), but rest is an unconstrained state that may fail to capture the full range of individual differences in functional connectivity. Acquiring fMRI data while subjects perform a task (hereafter, “task data” and “task-based” analyses) provides a means to practically and objectively manipulate brain state, and thus to explore its effects on patterns of functional connectivity, individual differences in these patterns, and the relationship of these individual differences to cognition and behavior. Previous applications of connectome-based analyses to task data have focused on characterizing similarities, differences, and transitions among intrinsic and task-induced brain states, or on predicting state variables directly related to the task (e.g., attention), but the utility of task-based functional connectivity for prediction of stable, individual traits has been relatively unexplored.</p>
+      <p id="u54146-16" class="shared_content" data-content-guid="u54146-16_content">In this work, we test the hypothesis that, much like a cardiac stress test identifies symptoms not observable at rest, tasks may tax individuals along a particular cognitive dimension, thereby amplifying individual differences in underlying neural circuitry and improving predictive models of related cognitive traits. To do so, we apply connectome-based predictive modeling (CPM) to two, independent data sets (Human Connectome Project (HCP) and Philadelphia Neurodevelopmental Cohort (PNC)), and show that models built from task data better predict fluid intelligence (gF) than do those built from rest data, thus extending previous work on task-induced changes in functional connectivity by demonstrating the utility of these changes for prediction of stable traits. Not only do task-based models outperform rest-based models, but certain tasks consistently yield better gF predictions than others, suggesting that some states may be better suited to reveal trait-relevant individual differences in functional organization. Moreover, we demonstrate that states that most improve trait prediction show a sex dependence. Optimizing models for prediction may thus require consideration of factors such as sex in addition to brain state. These findings replicate, and predictive models generalize, across data sets, suggesting the broad relevance of these findings.</p>
+      <p id="u54146-18" class="shared_content" data-content-guid="u54146-18_content">Altogether, the results suggest an opportunity to use tasks to perturb the brain during fMRI acquisitions in order to more comprehensively characterize individual differences in the neural circuitry underlying complex traits, and to generate useful behavioral and clinical predictions about individuals on the basis of these differences.</p>
+      <p class="shared_content" data-content-guid="u54146-22_8_content">&nbsp;</p>
+      <p class="shared_content" data-content-guid="u54146-22_9_content">&nbsp;</p>
      </div>
      <div class="clip_frame colelem" id="u67802"><!-- svg -->
       <img class="svg temp_no_img_src" id="u67803" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-mu-svgfallback="images/pasted%20svg%20125291x480_poster_.png?crc=4195518477" data-heightwidthratio="0.3832460732984293" data-image-width="955" data-image-height="366" src="images/blank.gif?crc=4208392903"/>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="2700" data-content-above-spacer="2700" data-content-below-spacer="95" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="verticalspacer" data-offset-top="2981" data-content-above-spacer="2981" data-content-below-spacer="95" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clearfix grpelem" id="pu46167-3"><!-- group -->
      <div class="browser_width grpelem shared_content" id="u46167-3-bw" data-content-guid="u46167-3-bw_content">
       <div class="clearfix" id="u46167-3"><!-- content -->
@@ -123,12 +100,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <div class="breakpoint" id="bp_859" data-min-width="795" data-max-width="859"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu272_content"><!-- placeholder node --></span>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-10"><!-- column -->
-     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u2722-10" data-content-guid="u2722-10_content"><!-- content -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-11"><!-- column -->
+     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u2722-11" data-content-guid="u2722-11_content"><!-- content -->
       <p class="temp_no_id" data-orig-id="u2722-3"><span class="temp_no_id" data-orig-id="u2722"><span class="actAsDiv normal_text temp_no_id" data-orig-id="u22983"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u22959"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-15436x201.svg?crc=3804072715" width="216" height="278" alt="" data-mu-svgfallback="images/pasted%20svg%2015436x201_poster_.png?crc=3874060642" data-orig-id="u22960" src="images/blank.gif?crc=4208392903"/></span></span></span>Our research center located in TAC building. If you stop by New Haven, you can take a coffee from Blue State in Cedar Street and cross the street to visit us in first floor of TAC. We have pretty large research group including one physic and one neuroscience subgroups both under supervision of Todd Constable. Our group mostly involved with the second&nbsp; one and working on a higher level of functional magnetic resonance imaging (fmri) which is defined by scanning subjects' brains, applying segmentation and defacing, skull removal, parcellation,&nbsp; building brain connectomes, data analysis on the connectome.&nbsp;&nbsp; In classic definition, parcellation is meant to pin some areas of human brain corresponding to particular functionality. From practical point of view this functionality should translate into higher node activation during a task performance.</p>
-      <p class="temp_no_id" data-orig-id="u2722-5">&nbsp;&nbsp; A traditional view for parcellation is based around a unified group-level network construction. There is good reasons why people use this simple approach; it is comparable among subjects for a prediction measure and also scalable with the number of nodes. But, there is no guarantee to preserve individual differences since a single functional atlas may not perfectly fit for all subjects.</p>
-      <p class="temp_no_id" data-orig-id="u2722-7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recent studies on functional neuroimaging (e.g. fMRI) attempt to model the brain as a network. A conventional functional connectivity approach for defining nodes in the network is grouping similar voxels together, a method known as functional parcellation. The majority of previous work on human brain parcellation employs a group- level analysis by collapsing data from the entire population. However, these methods ignore the large amount of inter-individual variability and uniqueness in connectivity. This is particularly relevant for patient studies or even developmental studies where a single functional atlas may not be appropriate for all individuals or conditions. To account for the individual differences, we developed an approach to individualized parcellation. The algorithm starts with an initial group-level parcellation and forms the individualized ones using a local exemplar-based submodular clustering method. The utility of individualized parcellations is further demonstrated through improvement in the accuracy of a predictive model that predicts IQ using functional connectome.</p>
-      <p>&nbsp;</p>
+      <span class="placeholder" data-placeholder-for="u2722-7_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u2722-9_content"><!-- placeholder node --></span>
      </div>
      <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u8689-16" data-content-guid="u8689-16_content"><!-- content -->
       <span class="placeholder" data-placeholder-for="u8689-2_content"><!-- placeholder node --></span>
@@ -138,50 +114,24 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="placeholder" data-placeholder-for="u8689-12_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u8689-14_content"><!-- placeholder node --></span>
      </div>
-     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u9866-27" data-content-guid="u9866-27_content"><!-- content -->
-      <p><span class="actAsDiv normal_text temp_no_id" data-orig-id="u23105"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u23085"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-178527x78.svg?crc=3815493521" width="270" height="118" alt="" data-mu-svgfallback="images/pasted%20svg%20178527x78_poster_.png?crc=4120392930" data-orig-id="u23086" src="images/blank.gif?crc=4208392903"/></span></span>Currently we are also working on semi-supervised techniques to increase the number of training data for behavioral prediction.<span class="temp_no_id" data-orig-id="u9866-2"> NEED TO BE COM</span></p>
-      <span class="placeholder" data-placeholder-for="u9866-5_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-7_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-9_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-11_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-13_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-15_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-17_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-19_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-21_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-23_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-25_content"><!-- placeholder node --></span>
-     </div>
-     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u54146-44" data-content-guid="u54146-44_content"><!-- content -->
-      <p>Currently we are also working on semi-supervised techniques to increase the number&nbsp; <span class="actAsDiv normal_text temp_no_id" data-orig-id="u54967"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u54947"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/lemon.svg?crc=4132317496" width="293" height="193" alt="" data-mu-svgfallback="images/lemon_poster_.png?crc=430270965" data-orig-id="u54948" src="images/blank.gif?crc=4208392903"/></span></span><span></span></p>
-      <p>&nbsp;of training data for behavioral prediction.<span class="temp_no_id" data-orig-id="u54146-5"></span></p>
-      <p class="temp_no_id" data-orig-id="u54146-8">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-10">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-12">need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-14">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-16">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-18">need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-20">need to be completed need to be completed need to be completedneed to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-22">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-24">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-26">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-28">need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed&nbsp; to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed&nbsp; to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed&nbsp; to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-30">&nbsp;to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-32">&nbsp;to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-33">&nbsp;</p>
-      <p class="temp_no_id" data-orig-id="u54146-34">&nbsp;</p>
-      <p class="temp_no_id" data-orig-id="u54146-35">&nbsp;</p>
-      <p class="temp_no_id" data-orig-id="u54146-37"><span class="actAsDiv normal_text temp_no_id" data-orig-id="u61898"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u61878"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-223681x336.svg?crc=3943201034" width="176" height="264" alt="" data-mu-svgfallback="images/pasted%20svg%20223681x336_poster_.png?crc=4221533845" data-orig-id="u61879" src="images/blank.gif?crc=4208392903"/></span></span>needneed to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-39">&nbsp;to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed need to be completed</p>
-      <p class="temp_no_id" data-orig-id="u54146-40">&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u9866-9_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u54146-22" data-content-guid="u54146-22_content"><!-- content -->
+      <p><span class="temp_no_id" data-orig-id="u54146">Functional connectome fingerprinting</span>: Functional magnetic resonance imaging (fMRI) studies typically collapse data from many subjects, but<span class="actAsDiv normal_text temp_no_id" data-orig-id="u69471"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u69451"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/lemon.svg?crc=4132317496" width="293" height="193" alt="" data-mu-svgfallback="images/lemon_poster_.png?crc=430270965" data-orig-id="u69452" src="images/blank.gif?crc=4208392903"/></span></span> brain functional organization varies between individuals. Here we establish that this individual variability is both robust and reliable, using data from the Human Connectome Project to demonstrate that functional connectivity profiles act as a 'fingerprint' that can accurately identify subjects from a large group. Identification was successful across scan sessions and even between task and rest conditions, indicating that an individual's connectivity profile is intrinsic, and can be used to distinguish that individual regardless of how the brain is engaged during imaging. Characteristic connectivity patterns were distributed throughout the brain, but the frontoparietal network emerged as most distinctive. Furthermore, we show that connectivity profiles predict levels of fluid intelligence: the same networks that were most discriminating of individuals were also most predictive of cognitive behavior. Results indicate the potential to draw inferences about single subjects on the basis of functional connectivity fMRI.</p>
+      <span class="placeholder" data-placeholder-for="u54146-22_1_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u54146-22_2_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u54146-9_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u54146-12_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u54146-14_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u54146-16_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u54146-18_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u54146-22_8_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u54146-22_9_content"><!-- placeholder node --></span>
      </div>
      <div class="clip_frame colelem temp_no_id" data-orig-id="u67802"><!-- svg -->
       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-mu-svgfallback="images/pasted%20svg%20125291x480_poster_.png?crc=4195518477" data-heightwidthratio="0.3838509316770186" data-image-width="805" data-image-height="309" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="3000" data-content-above-spacer="3000" data-content-below-spacer="91" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="verticalspacer" data-offset-top="3284" data-content-above-spacer="3284" data-content-below-spacer="91" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu46167-3"><!-- group -->
      <span class="browser_width grpelem placeholder" data-placeholder-for="u46167-3-bw_content"><!-- placeholder node --></span>
      <div class="clearfix grpelem temp_no_id" data-orig-id="u37043"><!-- group -->
@@ -199,16 +149,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <div class="breakpoint" id="bp_794" data-min-width="764" data-max-width="794"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu272_content"><!-- placeholder node --></span>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-10"><!-- column -->
-     <span class="clearfix colelem placeholder" data-placeholder-for="u2722-10_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-11"><!-- column -->
+     <span class="clearfix colelem placeholder" data-placeholder-for="u2722-11_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u8689-16_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u9866-27_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u54146-44_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u9866-9_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u54146-22_content"><!-- placeholder node --></span>
      <div class="clip_frame colelem temp_no_id" data-orig-id="u67802"><!-- svg -->
       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-mu-svgfallback="images/pasted%20svg%20125291x480_poster_.png?crc=4195518477" data-heightwidthratio="0.38306451612903225" data-image-width="744" data-image-height="285" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="3198" data-content-above-spacer="3197" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="verticalspacer" data-offset-top="3516" data-content-above-spacer="3515" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu46167-3"><!-- group -->
      <span class="browser_width grpelem placeholder" data-placeholder-for="u46167-3-bw_content"><!-- placeholder node --></span>
      <div class="clearfix grpelem temp_no_id" data-orig-id="u37043"><!-- group -->
@@ -226,12 +176,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <div class="breakpoint" id="bp_763" data-min-width="648" data-max-width="763"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu272_content"><!-- placeholder node --></span>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-10"><!-- column -->
-     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u2722-10" data-content-guid="u2722-10_content1"><!-- content -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-11"><!-- column -->
+     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u2722-11" data-content-guid="u2722-11_content1"><!-- content -->
       <p class="temp_no_id" data-orig-id="u2722-3"><span class="temp_no_id" data-orig-id="u2722"><span class="actAsDiv normal_text temp_no_id" data-orig-id="u22983"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u22959"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-15436x201.svg?crc=3804072715" width="243" height="313" alt="" data-mu-svgfallback="images/pasted%20svg%2015436x201_poster_.png?crc=3874060642" data-orig-id="u22960" src="images/blank.gif?crc=4208392903"/></span></span></span><span class="placeholder" data-placeholder-for="u2722-3_1_content"><!-- placeholder node --></span></p>
-      <span class="placeholder" data-placeholder-for="u2722-5_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u2722-7_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u2722-10_3_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u2722-9_content"><!-- placeholder node --></span>
      </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="u8689-16"><!-- content -->
       <span class="placeholder" data-placeholder-for="u8689-2_content"><!-- placeholder node --></span>
@@ -241,47 +190,27 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="placeholder" data-placeholder-for="u8689-12_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u8689-14_content"><!-- placeholder node --></span>
      </div>
-     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u9866-27" data-content-guid="u9866-27_content1"><!-- content -->
-      <p><span class="actAsDiv normal_text temp_no_id" data-orig-id="u23105"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u23085"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-178527x78.svg?crc=3815493521" width="328" height="143" alt="" data-mu-svgfallback="images/pasted%20svg%20178527x78_poster_.png?crc=4120392930" data-orig-id="u23086" src="images/blank.gif?crc=4208392903"/></span></span><span class="placeholder" data-placeholder-for="u9866-27_0_1_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u9866-2_content"><!-- placeholder node --></span></p>
-      <span class="placeholder" data-placeholder-for="u9866-5_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-7_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-9_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-11_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-13_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-15_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-17_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-19_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-21_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-23_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-25_content"><!-- placeholder node --></span>
-     </div>
-     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u54146-44" data-content-guid="u54146-44_content1"><!-- content -->
-      <p><span class="placeholder" data-placeholder-for="u54146-44_0_0_content"><!-- placeholder node --></span><span class="actAsDiv normal_text temp_no_id" data-orig-id="u54967"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u54947"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/lemon.svg?crc=4132317496" width="293" height="192" alt="" data-mu-svgfallback="images/lemon_poster_.png?crc=430270965" data-orig-id="u54948" src="images/blank.gif?crc=4208392903"/></span></span><span class="placeholder" data-placeholder-for="u54146-44_0_2_content"><!-- placeholder node --></span></p>
-      <span class="placeholder" data-placeholder-for="u54146-44_1_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-8_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-10_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-12_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-14_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-16_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-18_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-20_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-22_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-24_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-26_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-28_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-30_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-32_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-33_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-34_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-35_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-37_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-39_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-40_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-44_21_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-44_22_content"><!-- placeholder node --></span>
-     </div>
-     <div class="clip_frame colelem temp_no_id" data-orig-id="u67802"><!-- svg -->
-      <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-heightwidthratio="0.3832167832167832" data-image-width="715" data-image-height="274" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
+     <div class="clearfix colelem" id="pu9866-9"><!-- group -->
+      <div class="clearfix grpelem temp_no_id shared_content" data-orig-id="u9866-9" data-content-guid="u9866-9_content1"><!-- content -->
+       <p><span class="actAsDiv normal_text temp_no_id" data-orig-id="u23105"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u23085"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-178527x78.svg?crc=3815493521" width="328" height="143" alt="" data-mu-svgfallback="images/pasted%20svg%20178527x78_poster_.png?crc=4120392930" data-orig-id="u23086" src="images/blank.gif?crc=4208392903"/></span></span><span class="placeholder" data-placeholder-for="u9866_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u9866-9_0_2_content"><!-- placeholder node --></span></p>
+       <span class="placeholder" data-placeholder-for="u9866-9_1_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u9866-7_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clearfix grpelem temp_no_id shared_content" data-orig-id="u54146-22" data-content-guid="u54146-22_content1"><!-- content -->
+       <p><span class="placeholder" data-placeholder-for="u54146_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u54146-22_0_1_content"><!-- placeholder node --></span><span class="actAsDiv normal_text temp_no_id" data-orig-id="u69471"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u69451"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/lemon.svg?crc=4132317496" width="293" height="192" alt="" data-mu-svgfallback="images/lemon_poster_.png?crc=430270965" data-orig-id="u69452" src="images/blank.gif?crc=4208392903"/></span></span><span class="placeholder" data-placeholder-for="u54146-22_0_3_content"><!-- placeholder node --></span></p>
+       <span class="placeholder" data-placeholder-for="u54146-22_1_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-22_2_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-9_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-12_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-14_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-16_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-18_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-22_8_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-22_9_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u67802"><!-- svg -->
+       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-heightwidthratio="0.3832167832167832" data-image-width="715" data-image-height="274" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
     </div>
     <div class="verticalspacer" data-offset-top="3186" data-content-above-spacer="3185" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
@@ -302,8 +231,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <div class="breakpoint" id="bp_647" data-min-width="565" data-max-width="647"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu272_content"><!-- placeholder node --></span>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-10"><!-- column -->
-     <span class="clearfix colelem placeholder" data-placeholder-for="u2722-10_content1"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-11"><!-- column -->
+     <span class="clearfix colelem placeholder" data-placeholder-for="u2722-11_content1"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u8689-16" data-content-guid="u8689-16_content1"><!-- content -->
       <span class="placeholder" data-placeholder-for="u8689-2_content"><!-- placeholder node --></span>
       <p class="temp_no_id" data-orig-id="u8689-6"><span class="placeholder" data-placeholder-for="u8689-6_0_content"><!-- placeholder node --></span><span class="temp_no_id" data-orig-id="u8689-4"><span class="actAsDiv normal_text temp_no_id" data-orig-id="u23033"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u23009"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-1544x200.svg?crc=3906078038" width="239" height="309" alt="" data-mu-svgfallback="images/pasted%20svg%201544x200_poster_.png?crc=4196192490" data-orig-id="u23010" src="images/blank.gif?crc=4208392903"/></span></span></span><span class="placeholder" data-placeholder-for="u8689-6_2_content"><!-- placeholder node --></span></p>
@@ -312,13 +241,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="placeholder" data-placeholder-for="u8689-12_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u8689-14_content"><!-- placeholder node --></span>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u9866-27_content1"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u54146-44_content1"><!-- placeholder node --></span>
-     <div class="clip_frame colelem temp_no_id" data-orig-id="u67802"><!-- svg -->
-      <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-heightwidthratio="0.3844884488448845" data-image-width="606" data-image-height="233" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu9866-9"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u9866-9_content1"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u54146-22_content1"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u67802"><!-- svg -->
+       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-heightwidthratio="0.3844884488448845" data-image-width="606" data-image-height="233" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="3404" data-content-above-spacer="3403" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="verticalspacer" data-offset-top="3420" data-content-above-spacer="3419" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu46167-3"><!-- group -->
      <span class="browser_width grpelem placeholder" data-placeholder-for="u46167-3-bw_content"><!-- placeholder node --></span>
      <div class="clearfix grpelem temp_no_id" data-orig-id="u37043"><!-- group -->
@@ -343,12 +274,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </ul>
      </div>
     </div>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-10"><!-- column -->
-     <div class="clearfix colelem temp_no_id" data-orig-id="u2722-10"><!-- content -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-11"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="u2722-11"><!-- content -->
       <p class="temp_no_id" data-orig-id="u2722-3"><span class="temp_no_id" data-orig-id="u2722"><span class="actAsDiv normal_text temp_no_id" data-orig-id="u22983"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u22959"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-15436x201.svg?crc=3804072715" width="164" height="211" alt="" data-mu-svgfallback="images/pasted%20svg%2015436x201_poster_.png?crc=3874060642" data-orig-id="u22960" src="images/blank.gif?crc=4208392903"/></span></span></span><span class="placeholder" data-placeholder-for="u2722-3_1_content"><!-- placeholder node --></span></p>
-      <span class="placeholder" data-placeholder-for="u2722-5_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u2722-7_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u2722-10_3_content"><!-- placeholder node --></span>
+      <span class="placeholder" data-placeholder-for="u2722-9_content"><!-- placeholder node --></span>
      </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="u8689-16"><!-- content -->
       <span class="placeholder" data-placeholder-for="u8689-2_content"><!-- placeholder node --></span>
@@ -358,26 +288,19 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="placeholder" data-placeholder-for="u8689-12_content"><!-- placeholder node --></span>
       <span class="placeholder" data-placeholder-for="u8689-14_content"><!-- placeholder node --></span>
      </div>
-     <div class="clearfix colelem temp_no_id" data-orig-id="u9866-27"><!-- content -->
-      <p><span class="actAsDiv normal_text temp_no_id" data-orig-id="u23105"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u23085"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-178527x78.svg?crc=3815493521" width="221" height="96" alt="" data-mu-svgfallback="images/pasted%20svg%20178527x78_poster_.png?crc=4120392930" data-orig-id="u23086" src="images/blank.gif?crc=4208392903"/></span></span><span class="placeholder" data-placeholder-for="u9866-27_0_1_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u9866-2_content"><!-- placeholder node --></span></p>
-      <span class="placeholder" data-placeholder-for="u9866-5_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-7_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-9_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-11_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-13_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-15_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-17_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-19_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-21_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-23_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u9866-25_content"><!-- placeholder node --></span>
-     </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u54146-44_content1"><!-- placeholder node --></span>
-     <div class="clip_frame colelem temp_no_id" data-orig-id="u67802"><!-- svg -->
-      <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-heightwidthratio="0.38446969696969696" data-image-width="528" data-image-height="203" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu9866-9"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u9866-9"><!-- content -->
+       <p><span class="actAsDiv normal_text temp_no_id" data-orig-id="u23105"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u23085"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-178527x78.svg?crc=3815493521" width="221" height="96" alt="" data-mu-svgfallback="images/pasted%20svg%20178527x78_poster_.png?crc=4120392930" data-orig-id="u23086" src="images/blank.gif?crc=4208392903"/></span></span><span class="placeholder" data-placeholder-for="u9866_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u9866-9_0_2_content"><!-- placeholder node --></span></p>
+       <span class="placeholder" data-placeholder-for="u9866-9_1_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u9866-7_content"><!-- placeholder node --></span>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u54146-22_content1"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u67802"><!-- svg -->
+       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-heightwidthratio="0.38446969696969696" data-image-width="528" data-image-height="203" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="3768" data-content-above-spacer="3767" data-content-below-spacer="53" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="verticalspacer" data-offset-top="3862" data-content-above-spacer="3861" data-content-below-spacer="53" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu46167-3"><!-- group -->
      <span class="browser_width grpelem placeholder" data-placeholder-for="u46167-3-bw_content"><!-- placeholder node --></span>
      <div class="clearfix grpelem temp_no_id" data-orig-id="u37043"><!-- group -->
@@ -400,40 +323,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </ul>
      </div>
     </div>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-10"><!-- column -->
-     <span class="clearfix colelem placeholder" data-placeholder-for="u2722-10_content1"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu2722-11"><!-- column -->
+     <span class="clearfix colelem placeholder" data-placeholder-for="u2722-11_content1"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u8689-16_content1"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u9866-27_content1"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="u54146-44"><!-- content -->
-      <p><span class="placeholder" data-placeholder-for="u54146-44_0_0_content"><!-- placeholder node --></span><span class="actAsDiv normal_text temp_no_id" data-orig-id="u54967"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u54947"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/lemon.svg?crc=4132317496" width="243" height="159" alt="" data-mu-svgfallback="images/lemon_poster_.png?crc=430270965" data-orig-id="u54948" src="images/blank.gif?crc=4208392903"/></span></span><span class="placeholder" data-placeholder-for="u54146-44_0_2_content"><!-- placeholder node --></span></p>
-      <span class="placeholder" data-placeholder-for="u54146-44_1_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-8_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-10_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-12_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-14_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-16_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-18_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-20_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-22_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-24_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-26_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-28_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-30_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-32_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-33_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-34_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-35_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-37_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-39_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-40_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-44_21_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u54146-44_22_content"><!-- placeholder node --></span>
-     </div>
-     <div class="clip_frame colelem temp_no_id" data-orig-id="u67802"><!-- svg -->
-      <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-heightwidthratio="0.3847826086956522" data-image-width="460" data-image-height="177" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu9866-9"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u9866-9_content1"><!-- placeholder node --></span>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="u54146-22"><!-- content -->
+       <p><span class="placeholder" data-placeholder-for="u54146_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u54146-22_0_1_content"><!-- placeholder node --></span><span class="actAsDiv normal_text temp_no_id" data-orig-id="u69471"><!-- content --><span class="actAsDiv clip_frame temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u69451"><!-- svg --><img class="actAsDiv svg temp_no_id temp_no_img_src" data-orig-src="images/lemon.svg?crc=4132317496" width="243" height="159" alt="" data-mu-svgfallback="images/lemon_poster_.png?crc=430270965" data-orig-id="u69452" src="images/blank.gif?crc=4208392903"/></span></span><span class="placeholder" data-placeholder-for="u54146-22_0_3_content"><!-- placeholder node --></span></p>
+       <span class="placeholder" data-placeholder-for="u54146-22_1_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-22_2_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-9_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-12_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-14_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-16_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-18_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-22_8_content"><!-- placeholder node --></span>
+       <span class="placeholder" data-placeholder-for="u54146-22_9_content"><!-- placeholder node --></span>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u67802"><!-- svg -->
+       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-125291x480.svg?crc=3816596692" alt="" data-heightwidthratio="0.3847826086956522" data-image-width="460" data-image-height="177" data-orig-id="u67803" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="4043" data-content-above-spacer="4042" data-content-below-spacer="53" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+    <div class="verticalspacer" data-offset-top="4256" data-content-above-spacer="4255" data-content-below-spacer="53" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu46167-3"><!-- group -->
      <span class="browser_width grpelem placeholder" data-placeholder-for="u46167-3-bw_content"><!-- placeholder node --></span>
      <div class="clearfix grpelem temp_no_id" data-orig-id="u37043"><!-- group -->
