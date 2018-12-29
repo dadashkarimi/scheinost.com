@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546040456320">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546089270506">
   <folder name="assets">
     <file name="lemon.svg" crc="4132317496" seo="true" mt="1545864822000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="268898702" ref="about:members:index:publications"/>
+    <file name="master_a-master.css" crc="3764394568" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="369838421" ref="about:members:index:publications"/>
     <file name="about.css" crc="73187013" ref="about"/>
     <file name="nomq_about.css" crc="4129345152" ref="about"/>
@@ -78,14 +78,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 178527x78_poster_.png" crc="4120392930" ref="about"/>
-    <file name="stephanie_noble3.jpg" crc="471652305" seo="true" ref="members">
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-    </file>
-    <file name="zsdnagy6_400x400.jpg" crc="66034540" seo="true" ref="members">
+    <file name="zsdnagy6_400x400.jpg" crc="3852157189" seo="true" ref="members">
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
@@ -150,7 +143,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index:about:members"/>
+    <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index:about"/>
     <file name="pasted-svg-6637x83.svg" crc="288936675" seo="true" ref="publications">
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -207,7 +200,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="tablet-map-svgrepo-com_poster_.png" crc="348346613" ref="index:about:members"/>
+    <file name="tablet-map-svgrepo-com_poster_.png" crc="348346613" ref="index:about"/>
     <file name="mail-svgrepo-com.svg" crc="4035419932" seo="true" ref="index:about:publications:members">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -232,7 +225,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="mail-svgrepo-com_poster_.png" crc="386715095" ref="index:about:members"/>
+    <file name="mail-svgrepo-com_poster_.png" crc="386715095" ref="index:about"/>
     <file name="pasted-svg-166272x158.svg" crc="254348010" seo="true" ref="members">
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
@@ -249,17 +242,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="mail-mailbox-svgrepo-com_poster_.png" crc="4139932566" ref="index"/>
-    <file name="dustin_4.jpg" crc="452976533" seo="true" ref="index:members">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-    </file>
     <file name="lemon.svg" crc="4132317496" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -270,7 +252,10 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="lemon_poster_.png" crc="430270965" ref="about"/>
-    <file name="dustin_3.jpg" crc="193410214" seo="true" ref="index">
+    <file name="dustin_3.jpg" crc="4290921217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="lemon_blue.svg" crc="69169383" seo="true" ref="index">
@@ -305,10 +290,27 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 125291x480_poster_.png" crc="3853910004" ref="about"/>
+    <file name="pasted svg 125291x480_poster_.png" crc="4195518477" ref="about"/>
+    <file name="dustin.jpg" crc="3794075692" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="ulkumtzk_400x400.jpg" crc="321805406" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="dustin_32.jpg" crc="193410214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3822140329" seo="true" mt="1546039170441" redirect="true"/>
-  <file name="about.html" crc="333976743" seo="true" mt="1546040175994" redirect="true"/>
+  <file name="index.html" crc="4127639037" seo="true" mt="1546089166566" redirect="true"/>
+  <file name="about.html" crc="437898911" seo="true" mt="1546088408492" redirect="true"/>
   <file name="publications.html" crc="3945544387" seo="true" mt="1546039170441" redirect="true"/>
-  <file name="members.html" crc="4102623912" seo="true" mt="1546040288666" redirect="true"/>
+  <file name="members.html" crc="4024884694" seo="true" mt="1546088893754" redirect="true"/>
 </manifest>

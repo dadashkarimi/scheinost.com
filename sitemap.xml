@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://scheinost.com/index.html</loc>
-    <lastmod>2018-12-28</lastmod>
+    <lastmod>2018-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -24,18 +24,18 @@
       <image:loc>http://scheinost.com/images/mail-mailbox-svgrepo-com.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/dustin_4.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://scheinost.com/images/dustin_3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/lemon_blue.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/dustin_32.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://scheinost.com/about.html</loc>
-    <lastmod>2018-12-28</lastmod>
+    <lastmod>2018-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -98,12 +98,9 @@
   </url>
   <url>
     <loc>http://scheinost.com/members.html</loc>
-    <lastmod>2018-12-28</lastmod>
+    <lastmod>2018-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://scheinost.com/images/stephanie_noble3.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/zsdnagy6_400x400.jpg</image:loc>
     </image:image>
@@ -129,7 +126,10 @@
       <image:loc>http://scheinost.com/images/pasted-svg-166272x158.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/dustin_4.jpg</image:loc>
+      <image:loc>http://scheinost.com/images/dustin.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/ulkumtzk_400x400.jpg</image:loc>
     </image:image>
   </url>
   <url>
