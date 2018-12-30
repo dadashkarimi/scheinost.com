@@ -27,9 +27,6 @@
       <image:loc>http://scheinost.com/images/dustin_32.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/yale_poster_.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://scheinost.com/images/lemon_blue_brain.svg</image:loc>
     </image:image>
     <image:image>
@@ -37,6 +34,9 @@
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/mail-mailbox-svgrepo-com_poster_-crop-u47154.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/yale_university_shield_1.svg</image:loc>
     </image:image>
   </url>
   <url>

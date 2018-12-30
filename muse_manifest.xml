@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546151080810">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546190024423">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="4090957264" ref="about:members:index:publications"/>
+    <file name="master_a-master.css" crc="514064746" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="369838421" ref="about:members:index:publications"/>
     <file name="about.css" crc="34423848" ref="about"/>
     <file name="nomq_about.css" crc="361190581" ref="about"/>
-    <file name="members.css" crc="469907891" ref="members"/>
+    <file name="members.css" crc="3994008132" ref="members"/>
     <file name="nomq_members.css" crc="3903193281" ref="members"/>
-    <file name="index.css" crc="3938678705" ref="index"/>
-    <file name="nomq_index.css" crc="460020394" ref="index"/>
+    <file name="index.css" crc="4147010639" ref="index"/>
+    <file name="nomq_index.css" crc="326446114" ref="index"/>
     <file name="publications.css" crc="4244648623" ref="publications"/>
     <file name="nomq_publications.css" crc="4180681820" ref="publications"/>
   </folder>
@@ -19,7 +19,7 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:publications:members"/>
     <file name="museutils.js" crc="340535759" ref="index:about:publications:members"/>
     <file name="whatinput.js" crc="86476730" ref="index:about:publications:members"/>
-    <file name="museconfig.js" crc="310584261" ref="index:about:publications:members"/>
+    <file name="museconfig.js" crc="3960101568" ref="index:about:publications:members"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:about:publications:members"/>
     <file name="webpro.js" crc="4059564322" ref="index:about:publications:members"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:publications:members"/>
@@ -116,7 +116,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index:members"/>
+    <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index"/>
     <file name="pasted-svg-6637x83.svg" crc="288936675" seo="true" ref="publications">
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -259,13 +259,6 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 131204x196_poster_.png" crc="296331823" ref="about"/>
-    <file name="yale_poster_.jpg" crc="4091620011" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="lemon_blue_brain.svg" crc="4146274700" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -274,7 +267,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="lemon_blue_brain_poster_.png" crc="263750886" ref="index"/>
-    <file name="tablet-map-svgrepo-com_poster_-crop-u36666.png" crc="4136050920" seo="true" ref="index:about:publications:members">
+    <file name="tablet-map-svgrepo-com_poster_-crop-u36666.png" crc="484692313" seo="true" ref="index:about:publications:members">
       <caption webpage="index" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="about" alt=""/>
@@ -284,7 +277,7 @@
     </file>
     <file name="ico_ham_poster_u70664.png" crc="3918579516" ref="index:about:publications:members"/>
     <file name="ico_ham_close_poster_u70672.png" crc="266735806" ref="index:about:publications:members"/>
-    <file name="mail-mailbox-svgrepo-com_poster_-crop-u47154.png" crc="33179100" seo="true" ref="index">
+    <file name="mail-mailbox-svgrepo-com_poster_-crop-u47154.png" crc="48717959" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dff6takv3q41ddvz0w-b9gx.jpg" crc="114155024" seo="true" ref="members">
@@ -301,16 +294,24 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
-    <file name="siyuan.jpg" crc="3852157189" seo="true" ref="members">
+    <file name="siyuan.jpg" crc="4216041150" seo="true" ref="members">
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
+    <file name="yale_university_shield_1.svg" crc="64776413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yale_university_shield_1_poster_.png" crc="372545284" ref="index"/>
   </folder>
-  <file name="index.html" crc="3796326309" seo="true" mt="1546149931049" redirect="true"/>
-  <file name="about.html" crc="346519167" seo="true" mt="1546150016984" redirect="true"/>
-  <file name="publications.html" crc="4064089346" seo="true" mt="1546149237612" redirect="true"/>
-  <file name="members.html" crc="4121004598" seo="true" mt="1546151030515" redirect="true"/>
+  <file name="index.html" crc="327116516" seo="true" mt="1546190002992" redirect="true"/>
+  <file name="about.html" crc="4252567925" seo="true" mt="1546151165669" redirect="true"/>
+  <file name="publications.html" crc="252090237" seo="true" mt="1546151165669" redirect="true"/>
+  <file name="members.html" crc="4043706988" seo="true" mt="1546151165669" redirect="true"/>
 </manifest>
