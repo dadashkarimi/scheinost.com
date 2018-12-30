@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546190653776">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546190982583">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
@@ -10,8 +10,8 @@
     <file name="nomq_about.css" crc="361190581" ref="about"/>
     <file name="members.css" crc="3994008132" ref="members"/>
     <file name="nomq_members.css" crc="3903193281" ref="members"/>
-    <file name="index.css" crc="3981699775" ref="index"/>
-    <file name="nomq_index.css" crc="4180256588" ref="index"/>
+    <file name="index.css" crc="4211074681" ref="index"/>
+    <file name="nomq_index.css" crc="315383832" ref="index"/>
     <file name="publications.css" crc="4244648623" ref="publications"/>
     <file name="nomq_publications.css" crc="4180681820" ref="publications"/>
   </folder>
@@ -310,7 +310,7 @@
     </file>
     <file name="pasted svg 2772x290_poster_.png" crc="271133588" ref="index"/>
   </folder>
-  <file name="index.html" crc="213316109" seo="true" mt="1546190629242" redirect="true"/>
+  <file name="index.html" crc="3879192454" seo="true" mt="1546190936753" redirect="true"/>
   <file name="about.html" crc="4252567925" seo="true" mt="1546151165669" redirect="true"/>
   <file name="publications.html" crc="252090237" seo="true" mt="1546151165669" redirect="true"/>
   <file name="members.html" crc="4043706988" seo="true" mt="1546151165669" redirect="true"/>
