@@ -2,12 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://scheinost.com/index.html</loc>
-    <lastmod>2018-12-29</lastmod>
+    <lastmod>2018-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://scheinost.com/images/yale.svg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/yale-logo.svg</image:loc>
     </image:image>
@@ -15,27 +12,36 @@
       <image:loc>http://scheinost.com/images/pasted-svg-32579x31.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com.svg</image:loc>
+      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/mail-svgrepo-com.svg</image:loc>
+      <image:loc>http://scheinost.com/images/mail-svgrepo-com_poster_.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/mail-mailbox-svgrepo-com.svg</image:loc>
+      <image:loc>http://scheinost.com/images/mail-mailbox-svgrepo-com_poster_.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/dustin_3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/lemon_blue.svg</image:loc>
+      <image:loc>http://scheinost.com/images/dustin_32.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/dustin_32.jpg</image:loc>
+      <image:loc>http://scheinost.com/images/yale_poster_.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/lemon_blue_brain.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_-crop-u36666.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/mail-mailbox-svgrepo-com_poster_-crop-u47154.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://scheinost.com/about.html</loc>
-    <lastmod>2018-12-29</lastmod>
+    <lastmod>2018-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -48,10 +54,10 @@
       <image:loc>http://scheinost.com/images/pasted-svg-32579x31.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com.svg</image:loc>
+      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/mail-svgrepo-com.svg</image:loc>
+      <image:loc>http://scheinost.com/images/mail-svgrepo-com_poster_.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-223681x336.svg</image:loc>
@@ -65,10 +71,13 @@
     <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-131204x196.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_-crop-u36666.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://scheinost.com/publications.html</loc>
-    <lastmod>2018-12-28</lastmod>
+    <lastmod>2018-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -90,20 +99,20 @@
       <image:loc>http://scheinost.com/images/pasted-svg-208253x136.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com.svg</image:loc>
+      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/mail-svgrepo-com.svg</image:loc>
+      <image:loc>http://scheinost.com/images/mail-svgrepo-com_poster_.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_-crop-u36666.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://scheinost.com/members.html</loc>
-    <lastmod>2018-12-29</lastmod>
+    <lastmod>2018-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://scheinost.com/images/zsdnagy6_400x400.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/javid-scholargif.jpg</image:loc>
     </image:image>
@@ -117,19 +126,25 @@
       <image:loc>http://scheinost.com/images/pasted-svg-32579x31.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com.svg</image:loc>
+      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/mail-svgrepo-com.svg</image:loc>
+      <image:loc>http://scheinost.com/images/mail-svgrepo-com_poster_.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-166272x158.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/dustin.jpg</image:loc>
+      <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_-crop-u36666.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/ulkumtzk_400x400.jpg</image:loc>
+      <image:loc>http://scheinost.com/images/dff6takv3q41ddvz0w-b9gx.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/steph.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/siyuan.jpg</image:loc>
     </image:image>
   </url>
   <url>
