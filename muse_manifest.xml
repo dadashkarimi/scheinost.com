@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546886071654">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546886486061">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
@@ -10,8 +10,8 @@
     <file name="nomq_about.css" crc="4174936071" ref="about"/>
     <file name="members.css" crc="424365868" ref="members"/>
     <file name="nomq_members.css" crc="3809047435" ref="members"/>
-    <file name="index.css" crc="309294537" ref="index"/>
-    <file name="nomq_index.css" crc="116379376" ref="index"/>
+    <file name="index.css" crc="4275692538" ref="index"/>
+    <file name="nomq_index.css" crc="145605239" ref="index"/>
     <file name="publications.css" crc="481757154" ref="publications"/>
     <file name="nomq_publications.css" crc="4061249709" ref="publications"/>
   </folder>
@@ -71,23 +71,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index"/>
     <file name="pasted-svg-6637x83.svg" crc="288936675" seo="true" ref="publications">
@@ -127,18 +127,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="publications" alt=""/>
-      <caption webpage="publications" alt=""/>
-      <caption webpage="publications" alt=""/>
-      <caption webpage="publications" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="mail-svgrepo-com_poster_.png" crc="246796416" ref="index:about:publications:members" seo="true">
       <caption webpage="index" alt=""/>
@@ -146,23 +146,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="mail-mailbox-svgrepo-com_poster_.png" crc="4139932566" ref="index">
       <caption webpage="index" alt=""/>
@@ -226,11 +226,11 @@
     <file name="pasted svg 131204x196_poster_.png" crc="296331823" ref="about"/>
     <file name="tablet-map-svgrepo-com_poster_-crop-u36666.png" crc="114197732" seo="true" ref="index:about:publications:members">
       <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="publications" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="ico_ham_poster_u70664.png" crc="3918579516" ref="index:about:publications:members"/>
     <file name="ico_ham_close_poster_u70672.png" crc="266735806" ref="index:about:publications:members"/>
@@ -294,7 +294,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="191451571" seo="true" mt="1546886044335" redirect="true"/>
+  <file name="index.html" crc="466638486" seo="true" mt="1546886450376" redirect="true"/>
   <file name="about.html" crc="160116739" seo="true" mt="1546877625256" redirect="true"/>
   <file name="publications.html" crc="291373226" seo="true" mt="1546876342729" redirect="true"/>
   <file name="members.html" crc="406731546" seo="true" mt="1546876342729" redirect="true"/>
