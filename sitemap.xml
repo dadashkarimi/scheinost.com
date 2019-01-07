@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://scheinost.com/index.html</loc>
-    <lastmod>2018-12-31</lastmod>
+    <lastmod>2019-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>http://scheinost.com/about.html</loc>
-    <lastmod>2018-12-31</lastmod>
+    <lastmod>2019-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>http://scheinost.com/publications.html</loc>
-    <lastmod>2018-12-31</lastmod>
+    <lastmod>2019-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -107,17 +107,11 @@
   </url>
   <url>
     <loc>http://scheinost.com/members.html</loc>
-    <lastmod>2018-12-31</lastmod>
+    <lastmod>2019-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://scheinost.com/images/javid-scholargif.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://scheinost.com/images/pasted-svg-65919x48.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://scheinost.com/images/pasted-svg-65919x482.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-32579x31.svg</image:loc>
@@ -127,9 +121,6 @@
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/mail-svgrepo-com_poster_.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://scheinost.com/images/pasted-svg-166272x158.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_-crop-u36666.png</image:loc>
