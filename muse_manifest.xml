@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546904229940">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546905492495">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
@@ -10,8 +10,8 @@
     <file name="nomq_about.css" crc="3932681138" ref="about"/>
     <file name="members.css" crc="408709989" ref="members"/>
     <file name="nomq_members.css" crc="51229480" ref="members"/>
-    <file name="index.css" crc="4148047818" ref="index"/>
-    <file name="nomq_index.css" crc="4055889342" ref="index"/>
+    <file name="index.css" crc="3998012967" ref="index"/>
+    <file name="nomq_index.css" crc="3999373864" ref="index"/>
     <file name="publications.css" crc="70634721" ref="publications"/>
     <file name="nomq_publications.css" crc="404950885" ref="publications"/>
   </folder>
@@ -261,7 +261,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 770x757.png" crc="79556413" seo="true" ref="index">
+    <file name="pasted image 770x757.png" crc="4179934742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted-svg-427187x414.svg" crc="3988563609" seo="true" ref="index">
@@ -269,23 +272,24 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 427187x414_poster_.png" crc="4063691207" ref="index"/>
-    <file name="pasted image 770x75771x70.png" crc="4179934742" seo="true" ref="index">
+    <file name="dff6takv3q41ddvz0w-b9gx copy.jpg" crc="25342653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 770x75763x62.png" crc="3899325024" seo="true" ref="index">
+    <file name="pasted-svg-429686x415.svg" crc="407297615" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 770x75759x58.png" crc="4214569232" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 770x75742x41.png" crc="133002862" seo="true" ref="index">
+    <file name="pasted svg 429686x415_poster_.png" crc="78192748" ref="index"/>
+    <file name="pasted image 770x75768x67.png" crc="4218577117" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="20053700" seo="true" mt="1546904216879" redirect="true"/>
+  <file name="index.html" crc="4288798966" seo="true" mt="1546905479666" redirect="true"/>
   <file name="about.html" crc="1611441" seo="true" mt="1546902370190" redirect="true"/>
   <file name="publications.html" crc="4009150141" seo="true" mt="1546902370190" redirect="true"/>
   <file name="members.html" crc="364118576" seo="true" mt="1546902370190" redirect="true"/>
