@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546888045373">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546892984214">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
@@ -10,8 +10,8 @@
     <file name="nomq_about.css" crc="478245674" ref="about"/>
     <file name="members.css" crc="424365868" ref="members"/>
     <file name="nomq_members.css" crc="3809047435" ref="members"/>
-    <file name="index.css" crc="4275692538" ref="index"/>
-    <file name="nomq_index.css" crc="145605239" ref="index"/>
+    <file name="index.css" crc="4127487675" ref="index"/>
+    <file name="nomq_index.css" crc="4013017122" ref="index"/>
     <file name="publications.css" crc="481757154" ref="publications"/>
     <file name="nomq_publications.css" crc="4061249709" ref="publications"/>
   </folder>
@@ -71,23 +71,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index"/>
     <file name="pasted-svg-6637x83.svg" crc="288936675" seo="true" ref="publications">
@@ -127,18 +127,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="publications" alt=""/>
-      <caption webpage="publications" alt=""/>
-      <caption webpage="publications" alt=""/>
-      <caption webpage="publications" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="publications" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="mail-svgrepo-com_poster_.png" crc="246796416" ref="index:about:publications:members" seo="true">
       <caption webpage="index" alt=""/>
@@ -146,23 +146,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="mail-mailbox-svgrepo-com_poster_.png" crc="4139932566" ref="index">
       <caption webpage="index" alt=""/>
@@ -187,23 +187,20 @@
     </file>
     <file name="pasted svg 223681x336_poster_.png" crc="4221533845" ref="about"/>
     <file name="pasted-svg-125291x480.svg" crc="4151522655" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 125291x480_poster_.png" crc="3855647719" ref="about"/>
-    <file name="dustin_32.jpg" crc="4229202390" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="pasted-svg-273007x178.svg" crc="4189304677" seo="true" ref="about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -226,11 +223,11 @@
     <file name="pasted svg 131204x196_poster_.png" crc="296331823" ref="about"/>
     <file name="tablet-map-svgrepo-com_poster_-crop-u36666.png" crc="114197732" seo="true" ref="index:about:publications:members">
       <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="publications" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="ico_ham_poster_u70664.png" crc="3918579516" ref="index:about:publications:members"/>
     <file name="ico_ham_close_poster_u70672.png" crc="266735806" ref="index:about:publications:members"/>
@@ -293,9 +290,42 @@
     <file name="pasted image 770x75773x71.png" crc="79556413" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="neural_network-512.png" crc="4083574250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 600x667.png" crc="3793182813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 194x194.png" crc="89203172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neural_network-512189x189.png" crc="3926277169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 600x667169x188.png" crc="317447803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neural_network-512175x175.png" crc="3892061862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 600x667156x173.png" crc="3863950581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neural_network-512124x124.png" crc="4266424938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 600x667111x123.png" crc="3883223374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3948829620" seo="true" mt="1546886485346" redirect="true"/>
-  <file name="about.html" crc="3817635032" seo="true" mt="1546887942873" redirect="true"/>
-  <file name="publications.html" crc="291373226" seo="true" mt="1546886485346" redirect="true"/>
-  <file name="members.html" crc="406731546" seo="true" mt="1546886485346" redirect="true"/>
+  <file name="index.html" crc="3860405828" seo="true" mt="1546892945670" redirect="true"/>
+  <file name="about.html" crc="3817635032" seo="true" mt="1546892474937" redirect="true"/>
+  <file name="publications.html" crc="291373226" seo="true" mt="1546892474937" redirect="true"/>
+  <file name="members.html" crc="406731546" seo="true" mt="1546892474937" redirect="true"/>
 </manifest>
