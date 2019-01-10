@@ -1,25 +1,25 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1547139411481">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1547139866485">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="4273166279" ref="about:members:index:publications"/>
+    <file name="master_a-master.css" crc="4121925545" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="3862258211" ref="about:members:index:publications"/>
-    <file name="about.css" crc="3899384514" ref="about"/>
+    <file name="about.css" crc="4085151679" ref="about"/>
     <file name="nomq_about.css" crc="3932681138" ref="about"/>
-    <file name="members.css" crc="408709989" ref="members"/>
+    <file name="members.css" crc="242226902" ref="members"/>
     <file name="nomq_members.css" crc="51229480" ref="members"/>
-    <file name="index.css" crc="4018198735" ref="index"/>
-    <file name="nomq_index.css" crc="4116589699" ref="index"/>
-    <file name="publications.css" crc="70634721" ref="publications"/>
+    <file name="index.css" crc="4009712698" ref="index"/>
+    <file name="nomq_index.css" crc="4097884724" ref="index"/>
+    <file name="publications.css" crc="291807758" ref="publications"/>
     <file name="nomq_publications.css" crc="404950885" ref="publications"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:publications:members"/>
     <file name="museutils.js" crc="340535759" ref="index:about:publications:members"/>
     <file name="whatinput.js" crc="86476730" ref="index:about:publications:members"/>
-    <file name="museconfig.js" crc="310584261" ref="index:about:publications:members"/>
+    <file name="museconfig.js" crc="3960101568" ref="index:about:publications:members"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:about:publications:members"/>
     <file name="webpro.js" crc="4059564322" ref="index:about:publications:members"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:publications:members"/>
@@ -181,18 +181,18 @@
     </file>
     <file name="pasted svg 223681x336_poster_.png" crc="4221533845" ref="about"/>
     <file name="pasted-svg-125291x480.svg" crc="4151522655" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 125291x480_poster_.png" crc="3855647719" ref="about"/>
     <file name="pasted-svg-273007x178.svg" crc="4189304677" seo="true" ref="about">
@@ -277,17 +277,17 @@
     <file name="pasted image 770x75768x67.png" crc="4218577117" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="minds1_1.svg" crc="4117494333" seo="true" ref="index">
+    <file name="minds1_1.svg" crc="4034300928" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="minds1_1_poster_.png" crc="4123926509" ref="index"/>
+    <file name="minds1_1_poster_.png" crc="217959929" ref="index"/>
   </folder>
-  <file name="index.html" crc="389189650" seo="true" mt="1547139394464" redirect="true"/>
-  <file name="about.html" crc="3854790748" seo="true" mt="1546975858614" redirect="true"/>
-  <file name="publications.html" crc="4865688" seo="true" mt="1546975858614" redirect="true"/>
-  <file name="members.html" crc="43858303" seo="true" mt="1546975858614" redirect="true"/>
+  <file name="index.html" crc="3858664059" seo="true" mt="1547139840876" redirect="true"/>
+  <file name="about.html" crc="4031354708" seo="true" mt="1547139410870" redirect="true"/>
+  <file name="publications.html" crc="4294237581" seo="true" mt="1547139410870" redirect="true"/>
+  <file name="members.html" crc="315832275" seo="true" mt="1547139410870" redirect="true"/>
 </manifest>
