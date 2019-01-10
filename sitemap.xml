@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://scheinost.com/index.html</loc>
-    <lastmod>2019-01-08</lastmod>
+    <lastmod>2019-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -34,9 +34,6 @@
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/nids2_1.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://scheinost.com/images/nids1_1.svg</image:loc>
     </image:image>
   </url>
   <url>

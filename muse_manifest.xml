@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1546976721320">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1547105616268">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="187745292"/>
-    <file name="master_a-master.css" crc="3955787373" ref="about:members:index:publications"/>
+    <file name="site_global.css" crc="4097807371"/>
+    <file name="master_a-master.css" crc="4273166279" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="3862258211" ref="about:members:index:publications"/>
     <file name="about.css" crc="3899384514" ref="about"/>
     <file name="nomq_about.css" crc="3932681138" ref="about"/>
     <file name="members.css" crc="408709989" ref="members"/>
     <file name="nomq_members.css" crc="51229480" ref="members"/>
-    <file name="index.css" crc="4286440476" ref="index"/>
-    <file name="nomq_index.css" crc="84383096" ref="index"/>
+    <file name="index.css" crc="248299326" ref="index"/>
+    <file name="nomq_index.css" crc="101377980" ref="index"/>
     <file name="publications.css" crc="70634721" ref="publications"/>
     <file name="nomq_publications.css" crc="404950885" ref="publications"/>
   </folder>
@@ -277,19 +277,16 @@
     <file name="pasted image 770x75768x67.png" crc="4218577117" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nids2_1.svg" crc="448732211" seo="true" ref="index">
+    <file name="nids2_1.svg" crc="83228893" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="nids2_1_poster_.png" crc="4247528976" ref="index"/>
-    <file name="nids1_1.svg" crc="3904264343" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nids1_1_poster_.png" crc="91343519" ref="index"/>
+    <file name="nids2_1_poster_.png" crc="369287625" ref="index"/>
   </folder>
-  <file name="index.html" crc="509940395" seo="true" mt="1546976717621" redirect="true"/>
+  <file name="index.html" crc="355597400" seo="true" mt="1547105610714" redirect="true"/>
   <file name="about.html" crc="3854790748" seo="true" mt="1546975858614" redirect="true"/>
   <file name="publications.html" crc="4865688" seo="true" mt="1546975858614" redirect="true"/>
   <file name="members.html" crc="43858303" seo="true" mt="1546975858614" redirect="true"/>
