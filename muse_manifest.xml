@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1547109446330">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1547136204047">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
@@ -10,8 +10,8 @@
     <file name="nomq_about.css" crc="3932681138" ref="about"/>
     <file name="members.css" crc="408709989" ref="members"/>
     <file name="nomq_members.css" crc="51229480" ref="members"/>
-    <file name="index.css" crc="278247585" ref="index"/>
-    <file name="nomq_index.css" crc="4117732870" ref="index"/>
+    <file name="index.css" crc="151326591" ref="index"/>
+    <file name="nomq_index.css" crc="4253870010" ref="index"/>
     <file name="publications.css" crc="70634721" ref="publications"/>
     <file name="nomq_publications.css" crc="404950885" ref="publications"/>
   </folder>
@@ -277,16 +277,16 @@
     <file name="pasted image 770x75768x67.png" crc="4218577117" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lindsay1.svg" crc="279824785" seo="true" ref="index">
+    <file name="minds1.svg" crc="3944690647" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lindsay1_poster_.png" crc="3793637051" ref="index"/>
+    <file name="minds1_poster_.png" crc="225137589" ref="index"/>
   </folder>
-  <file name="index.html" crc="321062454" seo="true" mt="1547109148532" redirect="true"/>
+  <file name="index.html" crc="758934" seo="true" mt="1547136198365" redirect="true"/>
   <file name="about.html" crc="3854790748" seo="true" mt="1546975858614" redirect="true"/>
   <file name="publications.html" crc="4865688" seo="true" mt="1546975858614" redirect="true"/>
   <file name="members.html" crc="43858303" seo="true" mt="1546975858614" redirect="true"/>
