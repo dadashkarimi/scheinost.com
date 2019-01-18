@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>http://scheinost.com/about.html</loc>
-    <lastmod>2019-01-14</lastmod>
+    <lastmod>2019-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -60,9 +60,6 @@
       <image:loc>http://scheinost.com/images/pasted-svg-223681x336.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/pasted-svg-125291x480.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-273007x178.svg</image:loc>
     </image:image>
     <image:image>
@@ -70,6 +67,9 @@
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/tablet-map-svgrepo-com_poster_-crop-u36666.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/pasted-svg-1252898x548.svg</image:loc>
     </image:image>
   </url>
   <url>
