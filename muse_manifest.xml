@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1565999372448">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1565999643050">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="204364765" ref="about:members:index:publications"/>
+    <file name="master_a-master.css" crc="4083323208" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="3862258211" ref="about:members:index:publications"/>
     <file name="about.css" crc="4047112872" ref="about"/>
     <file name="nomq_about.css" crc="3904690609" ref="about"/>
     <file name="members.css" crc="4219706651" ref="members"/>
     <file name="nomq_members.css" crc="4241714166" ref="members"/>
-    <file name="index.css" crc="176489004" ref="index"/>
+    <file name="index.css" crc="3873012459" ref="index"/>
     <file name="nomq_index.css" crc="104506016" ref="index"/>
     <file name="publications.css" crc="320551263" ref="publications"/>
     <file name="nomq_publications.css" crc="46334089" ref="publications"/>
@@ -43,16 +43,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -145,7 +145,7 @@
     <file name="u862-94.png" crc="4207575657" ref="index"/>
     <file name="u2365-74.png" crc="29404068" ref="index"/>
     <file name="u862-95.png" crc="4130727618" ref="index"/>
-    <file name="u2365-75.png" crc="3972023644" ref="index"/>
+    <file name="u2365-75.png" crc="197430816" ref="index"/>
     <file name="u2722-11.png" crc="392625775" ref="about"/>
     <file name="u91959-11.png" crc="171973522" ref="about"/>
     <file name="u2722-112.png" crc="250052075" ref="about"/>
@@ -202,7 +202,7 @@
     </file>
     <file name="pasted svg 515x1042_poster_.png" crc="4102291008" ref="index"/>
   </folder>
-  <file name="index.html" crc="444917183" seo="true" mt="1565990891165" redirect="true"/>
+  <file name="index.html" crc="4260914734" seo="true" mt="1565999621957" redirect="true"/>
   <file name="about.html" crc="281376840" seo="true" mt="1565999318241" redirect="true"/>
   <file name="publications.html" crc="82816254" seo="true" mt="1565989168998" redirect="true"/>
   <file name="members.html" crc="3927275955" seo="true" mt="1565989054410" redirect="true"/>
