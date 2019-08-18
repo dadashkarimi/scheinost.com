@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1566169200528">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1566169802806">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
@@ -6,8 +6,8 @@
     <file name="site_global.css" crc="4097807371"/>
     <file name="master_a-master.css" crc="204364765" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="3862258211" ref="about:members:index:publications"/>
-    <file name="about.css" crc="284177570" ref="about"/>
-    <file name="nomq_about.css" crc="191134205" ref="about"/>
+    <file name="about.css" crc="4281829377" ref="about"/>
+    <file name="nomq_about.css" crc="400169449" ref="about"/>
     <file name="members.css" crc="458377515" ref="members"/>
     <file name="nomq_members.css" crc="4062178633" ref="members"/>
     <file name="index.css" crc="3892682071" ref="index"/>
@@ -154,9 +154,26 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
+    <file name="-gu5qpiftygursj3r6wrog_thumb_589.jpg" crc="3793814201" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="-gu5qpiftygursj3r6wrog_thumb_589694x305.jpg" crc="428593598" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="-gu5qpiftygursj3r6wrog_thumb_589588x258.jpg" crc="4124301272" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="-gu5qpiftygursj3r6wrog_thumb_589513x225.jpg" crc="4023995187" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="-gu5qpiftygursj3r6wrog_thumb_589412x181.jpg" crc="4176904265" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4262616903" seo="true" mt="1566168952140" redirect="true"/>
-  <file name="about.html" crc="3922318355" seo="true" mt="1566169183843" redirect="true"/>
+  <file name="about.html" crc="3887853908" seo="true" mt="1566169783266" redirect="true"/>
   <file name="publications.html" crc="4090651306" seo="true" mt="1566169044670" redirect="true"/>
   <file name="members.html" crc="331954986" seo="true" mt="1566169090577" redirect="true"/>
 </manifest>
