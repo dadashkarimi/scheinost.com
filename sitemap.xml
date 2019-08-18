@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://scheinost.com/index.html</loc>
-    <lastmod>2019-08-16</lastmod>
+    <lastmod>2019-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://scheinost.com/about.html</loc>
-    <lastmod>2019-08-16</lastmod>
+    <lastmod>2019-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>http://scheinost.com/publications.html</loc>
-    <lastmod>2019-08-16</lastmod>
+    <lastmod>2019-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>http://scheinost.com/members.html</loc>
-    <lastmod>2019-08-16</lastmod>
+    <lastmod>2019-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -67,6 +67,9 @@
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/dff6takv3q41ddvz0w-b9gx-crop-u51668.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/28354200.jpg</image:loc>
     </image:image>
   </url>
   <url>

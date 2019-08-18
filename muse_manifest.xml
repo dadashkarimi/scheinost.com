@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1565999643050">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1566169111083">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="4083323208" ref="about:members:index:publications"/>
+    <file name="master_a-master.css" crc="4200130317" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="3862258211" ref="about:members:index:publications"/>
-    <file name="about.css" crc="4047112872" ref="about"/>
-    <file name="nomq_about.css" crc="3904690609" ref="about"/>
-    <file name="members.css" crc="4219706651" ref="members"/>
-    <file name="nomq_members.css" crc="4241714166" ref="members"/>
-    <file name="index.css" crc="3873012459" ref="index"/>
-    <file name="nomq_index.css" crc="104506016" ref="index"/>
-    <file name="publications.css" crc="320551263" ref="publications"/>
-    <file name="nomq_publications.css" crc="46334089" ref="publications"/>
+    <file name="about.css" crc="4069158907" ref="about"/>
+    <file name="nomq_about.css" crc="301142088" ref="about"/>
+    <file name="members.css" crc="458377515" ref="members"/>
+    <file name="nomq_members.css" crc="4062178633" ref="members"/>
+    <file name="index.css" crc="3892682071" ref="index"/>
+    <file name="nomq_index.css" crc="3787413594" ref="index"/>
+    <file name="publications.css" crc="381386778" ref="publications"/>
+    <file name="nomq_publications.css" crc="422408202" ref="publications"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:publications:members"/>
@@ -61,7 +61,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index:about"/>
+    <file name="pasted svg 32579x31_poster_.png" crc="339329920" ref="index:about:publications"/>
     <file name="pasted-svg-6637x83.svg" crc="288936675" seo="true" ref="publications">
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
@@ -136,63 +136,9 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u862-9.png" crc="3986354800" ref="index"/>
-    <file name="u2365-7.png" crc="347298048" ref="index"/>
-    <file name="u862-92.png" crc="4128289211" ref="index"/>
-    <file name="u2365-72.png" crc="4176950610" ref="index"/>
-    <file name="u862-93.png" crc="343341627" ref="index"/>
-    <file name="u2365-73.png" crc="216462880" ref="index"/>
-    <file name="u862-94.png" crc="4207575657" ref="index"/>
-    <file name="u2365-74.png" crc="29404068" ref="index"/>
-    <file name="u862-95.png" crc="4130727618" ref="index"/>
-    <file name="u2365-75.png" crc="197430816" ref="index"/>
-    <file name="u2722-11.png" crc="392625775" ref="about"/>
-    <file name="u91959-11.png" crc="171973522" ref="about"/>
-    <file name="u2722-112.png" crc="250052075" ref="about"/>
-    <file name="u91959-112.png" crc="128300425" ref="about"/>
-    <file name="u2722-113.png" crc="356189583" ref="about"/>
-    <file name="u91959-113.png" crc="4269723858" ref="about"/>
-    <file name="u2722-114.png" crc="4085258300" ref="about"/>
-    <file name="u91959-114.png" crc="4082539470" ref="about"/>
-    <file name="u91959-115.png" crc="3776264832" ref="about"/>
-    <file name="u2722-115.png" crc="374220218" ref="about"/>
-    <file name="u91959-116.png" crc="215612342" ref="about"/>
-    <file name="u2722-116.png" crc="3758684994" ref="about"/>
-    <file name="u91959-117.png" crc="168233892" ref="about"/>
-    <file name="u2722-117.png" crc="29491238" ref="about"/>
-    <file name="u6607-299.png" crc="3854359391" ref="publications"/>
-    <file name="u6607-2992.png" crc="215094936" ref="publications"/>
-    <file name="u6607-2993.png" crc="162093394" ref="publications"/>
-    <file name="u6607-2994.png" crc="3961302269" ref="publications"/>
-    <file name="u6607-2995.png" crc="4294267755" ref="publications"/>
-    <file name="u20160-16.png" crc="47958595" ref="members"/>
-    <file name="u20159-22.png" crc="336683398" ref="members"/>
-    <file name="u20166-31.png" crc="4195178393" ref="members"/>
-    <file name="u20176-30.png" crc="4008292108" ref="members"/>
-    <file name="u20170-26.png" crc="326315608" ref="members"/>
-    <file name="u20160-162.png" crc="47958595" ref="members"/>
-    <file name="u20159-222.png" crc="336683398" ref="members"/>
-    <file name="u20166-312.png" crc="4195178393" ref="members"/>
-    <file name="u20176-302.png" crc="4008292108" ref="members"/>
-    <file name="u20170-262.png" crc="326315608" ref="members"/>
-    <file name="u20160-163.png" crc="47958595" ref="members"/>
-    <file name="u20159-223.png" crc="336683398" ref="members"/>
-    <file name="u20166-313.png" crc="4195178393" ref="members"/>
-    <file name="u20176-303.png" crc="4008292108" ref="members"/>
-    <file name="u20170-263.png" crc="326315608" ref="members"/>
-    <file name="u20160-164.png" crc="47958595" ref="members"/>
-    <file name="u20159-224.png" crc="336683398" ref="members"/>
-    <file name="u20166-314.png" crc="4195178393" ref="members"/>
-    <file name="u20176-304.png" crc="4008292108" ref="members"/>
-    <file name="u20170-264.png" crc="326315608" ref="members"/>
     <file name="dff6takv3q41ddvz0w-b9gx-crop-u51668.jpg" crc="3913159324" seo="true" ref="members">
       <caption webpage="members" alt=""/>
     </file>
-    <file name="u20160-165.png" crc="3908278201" ref="members"/>
-    <file name="u20159-225.png" crc="341419251" ref="members"/>
-    <file name="u20166-315.png" crc="81382925" ref="members"/>
-    <file name="u20176-305.png" crc="128279867" ref="members"/>
-    <file name="u20170-265.png" crc="47432658" ref="members"/>
     <file name="pasted-svg-515x1042.svg" crc="64375896" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -201,9 +147,23 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 515x1042_poster_.png" crc="4102291008" ref="index"/>
+    <file name="28354200.jpg" crc="4273515707" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="u94472-6.png" crc="511835702" ref="about"/>
+    <file name="u94472-62.png" crc="451542652" ref="about"/>
+    <file name="u94472-63.png" crc="4293315945" ref="about"/>
+    <file name="u94472-64.png" crc="282556564" ref="about"/>
+    <file name="u94472-65.png" crc="383978514" ref="about"/>
+    <file name="u94472-66.png" crc="337244990" ref="about"/>
+    <file name="u94472-67.png" crc="513726280" ref="about"/>
   </folder>
-  <file name="index.html" crc="4260914734" seo="true" mt="1565999621957" redirect="true"/>
-  <file name="about.html" crc="281376840" seo="true" mt="1565999318241" redirect="true"/>
-  <file name="publications.html" crc="82816254" seo="true" mt="1565989168998" redirect="true"/>
-  <file name="members.html" crc="3927275955" seo="true" mt="1565989054410" redirect="true"/>
+  <file name="index.html" crc="4262616903" seo="true" mt="1566168952140" redirect="true"/>
+  <file name="about.html" crc="532432708" seo="true" mt="1566168829380" redirect="true"/>
+  <file name="publications.html" crc="4090651306" seo="true" mt="1566169044670" redirect="true"/>
+  <file name="members.html" crc="331954986" seo="true" mt="1566169090577" redirect="true"/>
 </manifest>
