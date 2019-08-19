@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1566233541791">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1566234980866">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
@@ -8,8 +8,8 @@
     <file name="nomq_preview_master_a-master.css" crc="3862258211" ref="about:members:index:publications"/>
     <file name="about.css" crc="4281829377" ref="about"/>
     <file name="nomq_about.css" crc="400169449" ref="about"/>
-    <file name="members.css" crc="61692998" ref="members"/>
-    <file name="nomq_members.css" crc="143236456" ref="members"/>
+    <file name="members.css" crc="4034592971" ref="members"/>
+    <file name="nomq_members.css" crc="4098379881" ref="members"/>
     <file name="index.css" crc="3892682071" ref="index"/>
     <file name="nomq_index.css" crc="3787413594" ref="index"/>
     <file name="publications.css" crc="381386778" ref="publications"/>
@@ -185,9 +185,23 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
+    <file name="66041721_745715499179171_5950219353684180992_n.jpg" crc="3999906975" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="56862366_1775549579213125_1185783059597754368_n.jpg" crc="330051944" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4262616903" seo="true" mt="1566168952140" redirect="true"/>
   <file name="about.html" crc="3887853908" seo="true" mt="1566169783266" redirect="true"/>
   <file name="publications.html" crc="4090651306" seo="true" mt="1566169044670" redirect="true"/>
-  <file name="members.html" crc="3901849639" seo="true" mt="1566233505565" redirect="true"/>
+  <file name="members.html" crc="3782140096" seo="true" mt="1566234961530" redirect="true"/>
 </manifest>
