@@ -66,9 +66,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://scheinost.com/images/javid-scholargif.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://scheinost.com/images/pasted-svg-32579x31.svg</image:loc>
     </image:image>
     <image:image>
@@ -87,9 +84,6 @@
       <image:loc>http://scheinost.com/images/28354200.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://scheinost.com/images/wk6xhmwt.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://scheinost.com/images/42705300_567410537023359_1527420147189415936_n.jpg</image:loc>
     </image:image>
     <image:image>
@@ -97,6 +91,12 @@
     </image:image>
     <image:image>
       <image:loc>http://scheinost.com/images/56862366_1775549579213125_1185783059597754368_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/fullsizeoutput_463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://scheinost.com/images/pasted-svg-621x1091.svg</image:loc>
     </image:image>
   </url>
   <url>

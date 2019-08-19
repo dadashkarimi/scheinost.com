@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1566234980866">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1566243139221">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
@@ -8,8 +8,8 @@
     <file name="nomq_preview_master_a-master.css" crc="3862258211" ref="about:members:index:publications"/>
     <file name="about.css" crc="4281829377" ref="about"/>
     <file name="nomq_about.css" crc="400169449" ref="about"/>
-    <file name="members.css" crc="4034592971" ref="members"/>
-    <file name="nomq_members.css" crc="4098379881" ref="members"/>
+    <file name="members.css" crc="188844936" ref="members"/>
+    <file name="nomq_members.css" crc="3966331709" ref="members"/>
     <file name="index.css" crc="3892682071" ref="index"/>
     <file name="nomq_index.css" crc="3787413594" ref="index"/>
     <file name="publications.css" crc="381386778" ref="publications"/>
@@ -30,13 +30,6 @@
     <file name="ico_ham.svg" crc="496736174" ref="index:about:members:publications"/>
     <file name="ico_ham_close.svg" crc="528877227" ref="index:about:members:publications"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:publications:members"/>
-    <file name="javid-scholargif.jpg" crc="408170600" seo="true" ref="members">
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-    </file>
     <file name="pasted-svg-32579x31.svg" crc="3967028760" seo="true" ref="index:about:publications:members">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -171,13 +164,6 @@
     <file name="-gu5qpiftygursj3r6wrog_thumb_589412x181.jpg" crc="4176904265" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="wk6xhmwt.jpg" crc="3979185660" seo="true" ref="members">
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-    </file>
     <file name="42705300_567410537023359_1527420147189415936_n.jpg" crc="293771324" seo="true" ref="members">
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
@@ -199,9 +185,24 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
+    <file name="fullsizeoutput_463.jpg" crc="4286777985" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="pasted-svg-621x1091.svg" crc="3866812969" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="pasted svg 621x1091_poster_.png" crc="4010088371" ref="members"/>
   </folder>
   <file name="index.html" crc="4262616903" seo="true" mt="1566168952140" redirect="true"/>
   <file name="about.html" crc="3887853908" seo="true" mt="1566169783266" redirect="true"/>
   <file name="publications.html" crc="4090651306" seo="true" mt="1566169044670" redirect="true"/>
-  <file name="members.html" crc="3782140096" seo="true" mt="1566234961530" redirect="true"/>
+  <file name="members.html" crc="141609129" seo="true" mt="1566243119863" redirect="true"/>
 </manifest>
