@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1566244412078">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="scheinost.com" resolutions="1x" timestamp="1566248511605">
   <folder name="assets">
     <file name="lemon.svg" crc="3837062435" seo="true" mt="1545863257000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4097807371"/>
-    <file name="master_a-master.css" crc="114593385" ref="about:members:index:publications"/>
+    <file name="master_a-master.css" crc="3830748442" ref="about:members:index:publications"/>
     <file name="nomq_preview_master_a-master.css" crc="3862258211" ref="about:members:index:publications"/>
     <file name="about.css" crc="4281829377" ref="about"/>
     <file name="nomq_about.css" crc="400169449" ref="about"/>
-    <file name="members.css" crc="82357827" ref="members"/>
-    <file name="nomq_members.css" crc="46376504" ref="members"/>
+    <file name="members.css" crc="4265552576" ref="members"/>
+    <file name="nomq_members.css" crc="94987279" ref="members"/>
     <file name="index.css" crc="3892682071" ref="index"/>
     <file name="nomq_index.css" crc="3787413594" ref="index"/>
     <file name="publications.css" crc="381386778" ref="publications"/>
@@ -41,6 +41,7 @@
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
       <caption webpage="publications" alt=""/>
+      <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
@@ -107,6 +108,7 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="siyuan.jpg" crc="4216041150" seo="true" ref="members">
       <caption webpage="members" alt=""/>
@@ -146,6 +148,7 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="-gu5qpiftygursj3r6wrog_thumb_589.jpg" crc="3793814201" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -170,8 +173,10 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="66041721_745715499179171_5950219353684180992_n.jpg" crc="3999906975" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
@@ -184,6 +189,7 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
     </file>
     <file name="fullsizeoutput_463.jpg" crc="4286777985" seo="true" ref="members">
       <caption webpage="members" alt=""/>
@@ -191,18 +197,25 @@
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
-    </file>
-    <file name="pasted-svg-621x1091.svg" crc="3866812969" seo="true" ref="members">
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
-      <caption webpage="members" alt=""/>
       <caption webpage="members" alt=""/>
     </file>
-    <file name="pasted svg 621x1091_poster_.png" crc="4010088371" ref="members"/>
+    <file name="yeagle_headshot_lowres_cropped2.jpg" crc="495807101" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="dff6takv3q41ddvz0w-b9gx-crop-u516682.jpg" crc="319454667" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+    </file>
+    <file name="siyuan-crop-u28482.jpg" crc="79007692" seo="true" ref="members">
+      <caption webpage="members" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4262616903" seo="true" mt="1566168952140" redirect="true"/>
   <file name="about.html" crc="3887853908" seo="true" mt="1566169783266" redirect="true"/>
   <file name="publications.html" crc="4090651306" seo="true" mt="1566169044670" redirect="true"/>
-  <file name="members.html" crc="4150984683" seo="true" mt="1566244372607" redirect="true"/>
+  <file name="members.html" crc="436670062" seo="true" mt="1566248369610" redirect="true"/>
 </manifest>
